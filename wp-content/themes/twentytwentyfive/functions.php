@@ -137,8 +137,23 @@ if ( ! function_exists( 'twentytwentyfive_post_format_setup' ) ) :
 		';
 	}
 	add_shortcode( 'any_actual', 'shortcode_any_actual' );
-	
-endif;
+
+	function afegir_missatge_admin()
+		{
+			echo 'Benvingut/da al panell d’administració!';
+		}
+		add_action('admin_notices', 'afegir_missatge_admin');
+
+		// Exemple de filter: limitar la longitud del contingut del post
+		function modificar_longitud_extracte($longitud)
+		{
+			return 25;
+		}
+		add_filter('excerpt_length', 'modificar_longitud_extracte');
+
+
+
+	endif;
 add_action( 'after_setup_theme', 'twentytwentyfive_post_format_setup' );
 
 if ( ! function_exists( 'twentytwentyfive_editor_style' ) ) :
@@ -152,6 +167,7 @@ if ( ! function_exists( 'twentytwentyfive_editor_style' ) ) :
 	function twentytwentyfive_editor_style() {
 		add_editor_style( 'assets/css/editor-style.css' );
 	}
+	
 endif;
 add_action( 'after_setup_theme', 'twentytwentyfive_editor_style' );
 

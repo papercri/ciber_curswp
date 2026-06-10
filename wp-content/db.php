@@ -1,0 +1,1 @@
+/Users/cristianasollini/Documents/wp626/ciber-shop/app/public/wp-content/plugins/query-monitor/wp-content/db.php
