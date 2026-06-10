@@ -1,0 +1,29 @@
+# WordPress core 
+
+wp-admin/
+wp-includes/
+# Entorn de desenvolupament
+.vscode/
+.idea/
+*.log
+# Configuracions sensibles
+wp-config.php
+.env
+*.env
+# Base de dades
+*.sql
+*.db
+# Contingut generat dinàmicament
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/backup-*/
+# Caché
+wp-content/cache/
+# Fitxers del sistema
+.DS_Store
+Thumbs.db
+# Dependències
+node_modules/
+vendor/
+composer.lock
+package-lock.json

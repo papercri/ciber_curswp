@@ -19,7 +19,125 @@ if ( ! function_exists( 'twentytwentyfive_post_format_setup' ) ) :
 	 */
 	function twentytwentyfive_post_format_setup() {
 		add_theme_support( 'post-formats', array( 'aside', 'audio', 'chat', 'gallery', 'image', 'link', 'quote', 'status', 'video' ) );
+		add_theme_support( 'post-thumbnails' );
+		add_theme_support( 'menus' );
 	}
+	function registrar_menus() {
+		register_nav_menus([
+				'menu-principal' => 'Menu principal (header)',
+				'menu-legal'     => 'Menu legal (footer)',
+			]);
+	}
+	add_action( 'init', 'registrar_menus' );
+
+	// Crear shortcut
+	function shortcode_any_actual() {
+		//return date("Y-m-d");
+		return '
+		<div class="contenedor-chistes">
+			<p id="chiste">¡Cargando el mejor humor!</p>
+			<button id="btn-chiste">¡Otro chiste!</button>
+			</div>
+			
+			<script>
+
+			const listaChistes = [
+
+				"¿Qué le dice una farola a otra? ¡Oye, estás muy sola! Y la otra le responde: Sí, es que me da vergüenza hablar.",
+
+				"— Papá, papá, ¿qué se siente tener un hijo tan guapo? — No sé, hijo, pregúntale a tu abuelo.",
+
+				"¿Por qué las focas miran tanto hacia arriba? Porque arriba están sus focas.",
+
+				"— ¿Cómo te llamas? — Lamento. — ¡Qué nombre tan raro! — Lo siento.",
+
+				"¿Qué le dice un pez a otro? ¡Nada!"
+
+			];
+			
+			const textoChiste = document.getElementById("chiste");
+
+			const botonChiste = document.getElementById("btn-chiste");
+			
+			function obtenerChisteAleatorio() {
+
+				const indice = Math.floor(Math.random() * listaChistes.length);
+
+				textoChiste.textContent = listaChistes[indice];
+
+			}
+			
+			// Muestra un chiste al cargar la página
+
+			obtenerChisteAleatorio();
+			
+			// Cambia el chiste al hacer clic en el botón
+
+			botonChiste.addEventListener("click", obtenerChisteAleatorio);
+			</script>
+			
+			<style>
+
+			.contenedor-chistes {
+
+				background-color: #f9f9f9;
+
+				border: 2px solid #ddd;
+
+				border-radius: 8px;
+
+				padding: 20px;
+
+				text-align: center;
+
+				max-width: 400px;
+
+				margin: 20px auto;
+
+				font-family: Arial, sans-serif;
+
+			}
+
+			#chiste {
+
+				font-size: 1.1em;
+
+				color: #333;
+
+				margin-bottom: 15px;
+
+			}
+			
+			#btn-chiste {
+
+				background-color: #4CAF50;
+
+				color: white;
+
+				border: none;
+
+				padding: 10px 15px;
+
+				border-radius: 4px;
+
+				cursor: pointer;
+
+				font-size: 1em;
+
+			}
+			
+			#btn-chiste:hover {
+
+				background-color: #45a049;
+
+			}
+			</style>
+
+			
+		';
+	}
+	add_shortcode( 'any_actual', 'shortcode_any_actual' );
+	
 endif;
 add_action( 'after_setup_theme', 'twentytwentyfive_post_format_setup' );
 
