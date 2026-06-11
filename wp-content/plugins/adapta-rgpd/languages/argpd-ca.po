@@ -1,0 +1,3628 @@
+# Copyright (C) 2022 Adapta RGPD
+# This file is distributed under the same license as the Adapta RGPD package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Adapta RGPD 1.3.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/adapta-rgpd\n"
+"POT-Creation-Date: 2025-04-09 12:55+0200\n"
+"PO-Revision-Date: 2025-04-09 12:56+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.6\n"
+
+#: adapta-rgpd.php:323
+#, php-format
+msgid ""
+"La instalaci&oacute;n no cumple los requisitos, Adapta RGPD necesita al "
+"menos PHP 5.6, y el plugin ha sido <a href=\"%s\">desactivado</a>."
+msgstr ""
+"La instal·laci&oacute; no compleix els requisits, Adapta RGPD necessita "
+"almenys PHP 5.4, i l'extensió ha estat <a href=\"%s\">desactivada</a>."
+
+#: assets/js/jquery.dataTables.min.js:16
+msgid "row"
+msgstr "fila"
+
+#: assets/js/jquery.dataTables.min.js:16
+msgid "column"
+msgstr "columna"
+
+#: assets/js/jquery.dataTables.min.js:16
+msgid "cell"
+msgstr "cel·la"
+
+#: includes/class-admin.php:112 includes/class-admin.php:113
+msgid "Ajustes"
+msgstr "Configuració"
+
+#: includes/class-admin.php:121 includes/class-admin.php:122
+#: includes/class-ui.ORI.php:2352 includes/class-ui.php:2492
+msgid "Consentimientos"
+msgstr "Consentiments"
+
+#: includes/class-admin.php:130 includes/class-admin.php:131
+msgid "Clave de API"
+msgstr "Clau d'API"
+
+#: includes/class-admin.php:148 includes/class-admin.php:162
+#: includes/class-admin.php:176 includes/class-admin.php:190
+#: includes/class-admin.php:216 includes/class-admin.php:291
+#: includes/class-admin.php:354 includes/class-admin.php:380
+#: includes/class-admin.php:408
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No teniu prou permisos per accedir a aquesta pàgina."
+
+#: includes/class-admin.php:446
+msgid "Settings"
+msgstr "Configuració"
+
+#: includes/class-integration.php:611
+msgid "Moderar los comentarios."
+msgstr "Moderar els comentaris."
+
+#: includes/class-integration.php:623
+msgid "Para poder comentar debes aceptar la política de privacidad."
+msgstr "Per poder comentar heu d'acceptar la política de privacitat."
+
+#: includes/class-integration.php:720
+msgid "Menú para los textos legales - RGPD"
+msgstr "Menú per als texts legals - RGPD"
+
+#: includes/class-integration.php:741 includes/class-ui.ORI.php:1330
+#: includes/class-ui.php:1345 views/_MUSTACHE.php:362 views/_MUSTACHE.php:571
+#: views/_MUSTACHE.php:749 views/_MUSTACHE.php:1225
+msgid "Aviso Legal"
+msgstr "Avís Legal"
+
+#: includes/class-integration.php:746 includes/class-ui.ORI.php:1396
+#: includes/class-ui.php:1430 views/_MUSTACHE.php:363 views/_MUSTACHE.php:418
+#: views/_MUSTACHE.php:750 views/_MUSTACHE.php:1068 views/_MUSTACHE.php:1167
+#: views/_MUSTACHE.php:1226
+msgid "Política de Privacidad"
+msgstr "Política de Privacitat"
+
+#: includes/class-integration.php:751 includes/class-ui.ORI.php:1462
+#: includes/class-ui.php:1515 views/_MUSTACHE.php:73 views/_MUSTACHE.php:237
+#: views/_MUSTACHE.php:364 views/_MUSTACHE.php:447 views/_MUSTACHE.php:805
+#: views/_MUSTACHE.php:872 views/_MUSTACHE.php:878 views/_MUSTACHE.php:1227
+msgid "Política de Cookies"
+msgstr "Política de Cookies"
+
+#: includes/class-integration.php:755
+msgid "Configuración de Cookies"
+msgstr "Configuració de Cookies"
+
+#: includes/class-integration.php:917
+msgid "Cumplir con la prestación contratada."
+msgstr "Complir la prestació contractada."
+
+#: includes/class-integration.php:919
+msgid "Ejecución del contrato con el interesado."
+msgstr "Execució del contracte amb l'interessat."
+
+#: includes/class-integration.php:954 includes/class-integration.php:989
+#: includes/class-integration.php:1008
+msgid "Sí"
+msgstr "Sí"
+
+#: includes/class-integration.php:988 includes/class-integration.php:1007
+msgid "Aceptar promociones"
+msgstr "Acceptar promocions"
+
+#: includes/class-integration.php:989 includes/class-integration.php:1008
+msgid "No"
+msgstr "No"
+
+#: includes/class-settings.php:214
+msgid "Simple"
+msgstr "Senzill"
+
+#: includes/class-settings.php:215
+msgid "Con borde"
+msgstr "Amb vora"
+
+#: includes/class-settings.php:216
+msgid "Borde + Números"
+msgstr "Vora + Números"
+
+#: includes/class-settings.php:217
+msgid "Compacto en una línea"
+msgstr "Compacte en una línia"
+
+#: includes/class-settings.php:218
+msgid "Compacto con botón ver más"
+msgstr "Compacte amb botó veure més"
+
+#: includes/class-settings.php:222
+msgid "Clásico"
+msgstr "Clàssic"
+
+#: includes/class-settings.php:223
+msgid "Clásico en parte superior"
+msgstr "Clàssic a la part superior"
+
+#: includes/class-settings.php:224
+msgid "Moderno Claro"
+msgstr "Modern Clar"
+
+#: includes/class-settings.php:225
+msgid "Moderno Oscuro"
+msgstr "Modern Fosc"
+
+#: includes/class-settings.php:226
+msgid "Moderno en columnas"
+msgstr "Modern en columnes"
+
+#: includes/class-settings.php:230
+msgid "Argentina"
+msgstr "Argentina"
+
+#: includes/class-settings.php:231
+msgid "Andorra"
+msgstr "Andorra"
+
+#: includes/class-settings.php:232
+msgid "Alemania"
+msgstr "Alemanya"
+
+#: includes/class-settings.php:233
+msgid "Australia"
+msgstr "Austràlia"
+
+#: includes/class-settings.php:234
+msgid "Austria"
+msgstr "Àustria"
+
+#: includes/class-settings.php:235
+msgid "Bélgica"
+msgstr "Bèlgica"
+
+#: includes/class-settings.php:236
+msgid "Bulgaria"
+msgstr "Bulgària"
+
+#: includes/class-settings.php:237
+msgid "Bolivia"
+msgstr "Bolívia"
+
+#: includes/class-settings.php:238
+msgid "Brasil"
+msgstr "Brasil"
+
+#: includes/class-settings.php:239
+msgid "Canadá"
+msgstr "Canadà"
+
+#: includes/class-settings.php:240
+msgid "Colombia"
+msgstr "Colòmbia"
+
+#: includes/class-settings.php:241
+msgid "Chile"
+msgstr "Xile"
+
+#: includes/class-settings.php:242
+msgid "China"
+msgstr "Xina"
+
+#: includes/class-settings.php:243
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: includes/class-settings.php:244
+msgid "Chipre"
+msgstr "Xipre"
+
+#: includes/class-settings.php:245
+msgid "Cuba"
+msgstr "Cuba"
+
+#: includes/class-settings.php:246
+msgid "Dinamarca"
+msgstr "Dinamarca"
+
+#: includes/class-settings.php:247
+msgid "Ecuador"
+msgstr "Equador"
+
+#: includes/class-settings.php:248
+msgid "Emiratos Árabes Unidos"
+msgstr "Unió dels Emirats Àrabs"
+
+#: includes/class-settings.php:249
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: includes/class-settings.php:250
+msgid "Eslovaquia"
+msgstr "Eslovàquia"
+
+#: includes/class-settings.php:251
+msgid "Eslovenia"
+msgstr "Eslovènia"
+
+#: includes/class-settings.php:252
+msgid "Estonia"
+msgstr "Estònia"
+
+#: includes/class-settings.php:253
+msgid "España"
+msgstr "Espanya"
+
+#: includes/class-settings.php:254
+msgid "Estados Unidos"
+msgstr "Estats Units"
+
+#: includes/class-settings.php:255
+msgid "Finlandia"
+msgstr "Finlàndia"
+
+#: includes/class-settings.php:256
+msgid "Francia"
+msgstr "França"
+
+#: includes/class-settings.php:257
+msgid "Grecia"
+msgstr "Grècia"
+
+#: includes/class-settings.php:258
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: includes/class-settings.php:259
+msgid "Haití"
+msgstr "Haití"
+
+#: includes/class-settings.php:260
+msgid "Honduras"
+msgstr "Hondures"
+
+#: includes/class-settings.php:261
+msgid "Hungría"
+msgstr "Hongria"
+
+#: includes/class-settings.php:262
+msgid "Italia"
+msgstr "Itàlia"
+
+#: includes/class-settings.php:263
+msgid "Irlanda"
+msgstr "Irlanda"
+
+#: includes/class-settings.php:264
+msgid "Letonia"
+msgstr "Letònia"
+
+#: includes/class-settings.php:265
+msgid "Lituania"
+msgstr "Lituània"
+
+#: includes/class-settings.php:266
+msgid "Luxemburgo"
+msgstr "Luxemburg"
+
+#: includes/class-settings.php:267
+msgid "Malta"
+msgstr "Malta"
+
+#: includes/class-settings.php:268
+msgid "México"
+msgstr "Mèxic"
+
+#: includes/class-settings.php:269
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: includes/class-settings.php:270
+msgid "Países Bajos"
+msgstr "Països Baixos"
+
+#: includes/class-settings.php:271
+msgid "Noruega"
+msgstr "Noruega"
+
+#: includes/class-settings.php:272
+msgid "Perú"
+msgstr "Perú"
+
+#: includes/class-settings.php:273
+msgid "Panamá"
+msgstr "Panamà"
+
+#: includes/class-settings.php:274
+msgid "Paraguay"
+msgstr "Paraguai"
+
+#: includes/class-settings.php:275
+msgid "Polonia"
+msgstr "Polònia"
+
+#: includes/class-settings.php:276
+msgid "Portugal"
+msgstr "Portugal"
+
+#: includes/class-settings.php:277
+msgid "Reino Unido"
+msgstr "Regne Unit"
+
+#: includes/class-settings.php:278
+msgid "República Checa"
+msgstr "República Txeca"
+
+#: includes/class-settings.php:279
+msgid "República Dominicana"
+msgstr "República Dominicana"
+
+#: includes/class-settings.php:280
+msgid "Rumania"
+msgstr "Romania"
+
+#: includes/class-settings.php:281
+msgid "Suecia"
+msgstr "Suècia"
+
+#: includes/class-settings.php:282
+msgid "Federación Rusa"
+msgstr "Federació Russa"
+
+#: includes/class-settings.php:283
+msgid "Confederación Suiza"
+msgstr "Confederació Suïssa"
+
+#: includes/class-settings.php:284
+msgid "Uruguay"
+msgstr "Uruguai"
+
+#: includes/class-settings.php:285
+msgid "Venezuela"
+msgstr "Veneçuela"
+
+#: includes/class-settings.php:364 includes/class-ui.php:2707
+msgid "Aceptar"
+msgstr "Acceptar"
+
+#: includes/class-settings.php:368
+msgid "Rechazar"
+msgstr "Rebutjar"
+
+#: includes/class-settings.php:373
+msgid "Más información"
+msgstr "Més informació"
+
+#: includes/class-settings.php:375 includes/class-ui.php:2034
+msgid "Configurar y más información"
+msgstr "Configurar i més informació"
+
+#: includes/class-ui.ORI.php:177 includes/class-ui.php:177
+msgid "cargando..."
+msgstr "s'està carregant..."
+
+#: includes/class-ui.ORI.php:621 includes/class-ui.php:621
+#: views/_MUSTACHE.php:578
+msgid "Responsable"
+msgstr "Responsable"
+
+#: includes/class-ui.ORI.php:653 includes/class-ui.php:653
+msgid "Responsable del Tratamiento"
+msgstr "Responsable del Tractament"
+
+#: includes/class-ui.ORI.php:660 includes/class-ui.php:660
+msgid "Particular"
+msgstr "Particular"
+
+#: includes/class-ui.ORI.php:666 includes/class-ui.php:666
+msgid "Empresa o autónomo"
+msgstr "Empresa o autònom"
+
+#: includes/class-ui.ORI.php:678 includes/class-ui.php:678
+msgid "Nombre y apellidos"
+msgstr "Nom i cognoms"
+
+#: includes/class-ui.ORI.php:679 includes/class-ui.php:679
+msgid "de Contacto"
+msgstr "de Contacte"
+
+#: includes/class-ui.ORI.php:687 includes/class-ui.php:687
+msgid "Denominación social"
+msgstr "Denominació social"
+
+#: includes/class-ui.ORI.php:688 includes/class-ui.php:688
+msgid "o Titular"
+msgstr "o Titular"
+
+#: includes/class-ui.ORI.php:714 includes/class-ui.php:714
+msgid "Identificador fiscal"
+msgstr "Identificador fiscal"
+
+#: includes/class-ui.ORI.php:715 includes/class-ui.php:715
+msgid "NIF o CIF"
+msgstr "NIF o CIF"
+
+#: includes/class-ui.ORI.php:737 includes/class-ui.ORI.php:761
+#: includes/class-ui.php:737 includes/class-ui.php:761
+msgid "Datos del"
+msgstr "Dades del"
+
+#: includes/class-ui.ORI.php:738 includes/class-ui.php:738
+msgid "Colegio Profesional"
+msgstr "Col·legi Professional"
+
+#: includes/class-ui.ORI.php:749 includes/class-ui.ORI.php:890
+#: includes/class-ui.php:749 includes/class-ui.php:890
+msgid "Opcional"
+msgstr "Opcional"
+
+#: includes/class-ui.ORI.php:762 includes/class-ui.php:762
+msgid "Registro mercantil"
+msgstr "Registre mercantil"
+
+#: includes/class-ui.ORI.php:768 includes/class-ui.php:768
+msgid "Registro mercantil de"
+msgstr "Registre mercantil de"
+
+#: includes/class-ui.ORI.php:773 includes/class-ui.php:773
+msgid "Tomo"
+msgstr "Tom"
+
+#: includes/class-ui.ORI.php:779 includes/class-ui.php:779
+msgid "Libro"
+msgstr "Llibre"
+
+#: includes/class-ui.ORI.php:785 includes/class-ui.php:785
+msgid "Sección"
+msgstr "Secció"
+
+#: includes/class-ui.ORI.php:792 includes/class-ui.php:792
+msgid "Folio"
+msgstr "Foli"
+
+#: includes/class-ui.ORI.php:798 includes/class-ui.php:798
+msgid "Hoja"
+msgstr "Full"
+
+#: includes/class-ui.ORI.php:804 includes/class-ui.php:804
+msgid "Inscripción"
+msgstr "Inscripció"
+
+#: includes/class-ui.ORI.php:816 includes/class-ui.php:816
+#: views/_MUSTACHE.php:325 views/_MUSTACHE.php:600
+msgid "Domicilio"
+msgstr "Domicili"
+
+#: includes/class-ui.ORI.php:817 includes/class-ui.php:817
+msgid "Domicilio social"
+msgstr "Domicili social"
+
+#: includes/class-ui.ORI.php:862 includes/class-ui.php:862
+#: views/_MUSTACHE.php:331 views/_MUSTACHE.php:606
+msgid "Correo electrónico"
+msgstr "Correu electrònic"
+
+#: includes/class-ui.ORI.php:863 includes/class-ui.php:863
+msgid "de contacto"
+msgstr "de contacte"
+
+#: includes/class-ui.ORI.php:874 includes/class-ui.php:874
+msgid "Correo electrónico dónde ejercen sus"
+msgstr "Correu electrònic on exerceixen els seus"
+
+#: includes/class-ui.ORI.php:875 includes/class-ui.php:875
+msgid "derechos los usuarios"
+msgstr "drets els usuaris"
+
+#: includes/class-ui.ORI.php:885 includes/class-ui.php:885
+msgid "Teléfono"
+msgstr "Telèfon"
+
+#: includes/class-ui.ORI.php:902 includes/class-ui.php:902
+msgid "Sobre el sitio Web"
+msgstr "Sobre el lloc web"
+
+#: includes/class-ui.ORI.php:913 includes/class-ui.php:913
+msgid "Dirección web"
+msgstr "Adreça web"
+
+#: includes/class-ui.ORI.php:914 includes/class-ui.php:914
+msgid "del sitio"
+msgstr "del lloc"
+
+#: includes/class-ui.ORI.php:933 includes/class-ui.php:933
+msgid "Actividad del"
+msgstr "Activitat del"
+
+#: includes/class-ui.ORI.php:934 includes/class-ui.php:934
+#: views/_MUSTACHE.php:344 views/_MUSTACHE.php:619
+msgid "Sitio Web"
+msgstr "Lloc Web"
+
+#: includes/class-ui.ORI.php:942 includes/class-ui.php:942
+msgid "Actividad de"
+msgstr "Activitat de"
+
+#: includes/class-ui.ORI.php:943 includes/class-ui.php:943
+msgid "la Empresa"
+msgstr "l'Empresa"
+
+#: includes/class-ui.ORI.php:957 includes/class-ui.php:957
+msgid "Por ejemplo, tienda de venta de zapatos"
+msgstr "Per exemple, botiga de venda de sabates"
+
+#: includes/class-ui.ORI.php:964 includes/class-ui.php:964
+msgid "Tienda online"
+msgstr "Botiga online"
+
+#: includes/class-ui.ORI.php:983 includes/class-ui.php:983
+#: includes/class-ui.php:1414
+msgid "¿Qué es la LSSI?"
+msgstr "Què és la LSSI?"
+
+#: includes/class-ui.ORI.php:994 includes/class-ui.php:994
+msgid "Proveedor del"
+msgstr "Proveïdor del"
+
+#: includes/class-ui.ORI.php:995 includes/class-ui.php:995
+msgid "alojamiento web"
+msgstr "allotjament web"
+
+#: includes/class-ui.ORI.php:1012 includes/class-ui.php:1012
+msgid "Servicios de Terceros"
+msgstr "Serveis de Tercers"
+
+#: includes/class-ui.ORI.php:1057 includes/class-ui.php:1063
+msgid "Programa de Afiliados de Amazon de la UE"
+msgstr "Programa d'afiliats d'Amazon de la UE"
+
+#: includes/class-ui.ORI.php:1142 includes/class-ui.php:1154
+msgid "Facebook, Twitter, Linkedin, YouTube o Instagram"
+msgstr "Facebook, Twitter, Linkedin, YouTube o Instagram"
+
+#: includes/class-ui.ORI.php:1156 includes/class-ui.php:1168
+msgid "Más Ajustes"
+msgstr "Més Configuració"
+
+#: includes/class-ui.ORI.php:1162 includes/class-ui.php:1174
+msgid "Cláusulas"
+msgstr "Clàusules"
+
+#: includes/class-ui.ORI.php:1173 includes/class-ui.php:1185
+msgid "Reservar el Derecho de exclusión"
+msgstr "Reservar el dret d'exclusió"
+
+#: includes/class-ui.ORI.php:1183 includes/class-ui.php:1195
+msgid "Cesión de datos a terceros"
+msgstr "Cessió de dades a tercers"
+
+#: includes/class-ui.ORI.php:1195 includes/class-ui.php:1207
+msgid "Requisito mayoría edad. "
+msgstr "Requeriment de majoria d'edat. "
+
+#: includes/class-ui.ORI.php:1202 includes/class-ui.ORI.php:1209
+#: includes/class-ui.php:1217 includes/class-ui.php:1224
+msgid "años"
+msgstr "anys"
+
+#: includes/class-ui.ORI.php:1203 includes/class-ui.php:1218
+msgid "otros"
+msgstr "altres"
+
+#: includes/class-ui.ORI.php:1220 includes/class-ui.php:1235
+msgid ""
+"Datos especialmente protegidos: médicos, religiosos, orientación sexual..."
+msgstr ""
+"Dades especialment protegides: metges, religiosos, orientació sexual..."
+
+#: includes/class-ui.ORI.php:1232 includes/class-ui.php:1247
+msgid "Permitir la Portabilidad de datos"
+msgstr "Permetre la portabilitat de dades"
+
+#: includes/class-ui.ORI.php:1244 includes/class-ui.php:1259
+msgid "Error tipográfico y fe de erratas"
+msgstr "Error tipogràfic i fe d'errades"
+
+#: includes/class-ui.ORI.php:1256 includes/class-ui.php:1271
+msgid "Renuncia de fuero propio"
+msgstr "Renúncia de fur propi"
+
+#: includes/class-ui.ORI.php:1284 includes/class-ui.php:1299
+msgid "Textos Legales"
+msgstr "Texts Legals"
+
+#: includes/class-ui.ORI.php:1309 includes/class-ui.php:1324
+#: views/_MUSTACHE.php:1247 views/_MUSTACHE.php:1264
+msgid "Páginas Legales"
+msgstr "Pàgines Legals"
+
+#: includes/class-ui.ORI.php:1313 includes/class-ui.php:1328
+msgid "Texto Legal"
+msgstr "Text Legal"
+
+#: includes/class-ui.ORI.php:1314 includes/class-ui.php:1329
+msgid "Página en la que aparece"
+msgstr "Pàgina on apareix"
+
+#: includes/class-ui.ORI.php:1315 includes/class-ui.ORI.php:2211
+#: includes/class-ui.ORI.php:2229 includes/class-ui.php:1330
+#: includes/class-ui.php:2348 includes/class-ui.php:2366
+msgid "Ayuda"
+msgstr "Ajuda"
+
+#: includes/class-ui.ORI.php:1338 includes/class-ui.ORI.php:1404
+#: includes/class-ui.ORI.php:1471 includes/class-ui.ORI.php:1536
+#: includes/class-ui.php:1353 includes/class-ui.php:1438
+#: includes/class-ui.php:1524 includes/class-ui.php:1607
+msgid "Ver"
+msgstr "Veure"
+
+#: includes/class-ui.ORI.php:1527 includes/class-ui.php:1598
+msgid "Preferencias de Cookies"
+msgstr "Preferències de Cookies"
+
+#: includes/class-ui.ORI.php:1582 includes/class-ui.php:1668
+msgid "Textos revisados por profesionales legales y actualizados en 2022."
+msgstr "Texts revisats per professionals legals i actualitzats el 2022."
+
+#: includes/class-ui.ORI.php:1601 includes/class-ui.php:1687
+msgid "Los buscadores de Google y Bing indexan los textos legales"
+msgstr "Els cercadors de Google i Bing indexen els texts legals"
+
+#: includes/class-ui.ORI.php:1610 includes/class-ui.php:1699
+msgid "No recomendado."
+msgstr "No recomanat."
+
+#: includes/class-ui.ORI.php:1624 includes/class-ui.php:1713
+msgid "Primera capa informativa en formularios y pie de página"
+msgstr "Primera capa informativa a formularis i peu de pàgina"
+
+#: includes/class-ui.ORI.php:1626 includes/class-ui.php:1715
+msgid ""
+"Este apartado sirve para cumplir el deber de informar. Aprende los conceptos "
+"que necesitas en"
+msgstr ""
+"Aquest apartat serveix per complir el deure informar. Aprèn els conceptes "
+"que necessites a"
+
+#: includes/class-ui.ORI.php:1630 includes/class-ui.php:1719
+msgid "esta guía."
+msgstr "aquesta guia."
+
+#: includes/class-ui.ORI.php:1639 includes/class-ui.php:1728
+msgid "Activar en"
+msgstr "Activar a"
+
+#: includes/class-ui.ORI.php:1650 includes/class-ui.php:1739
+msgid "Comentarios "
+msgstr "Comentaris "
+
+#: includes/class-ui.ORI.php:1652 includes/class-ui.php:1741
+msgid ""
+"Activa la primera capa informativa y la casilla de aceptación en los "
+"comentarios."
+msgstr ""
+"Activa la primera capa informativa i la casella d'acceptació als comentaris."
+
+#: includes/class-ui.ORI.php:1664 includes/class-ui.php:1753
+msgid "Formularios"
+msgstr "Formularis"
+
+#: includes/class-ui.ORI.php:1667 includes/class-ui.php:1756
+msgid "Guía para adecuar los formularios"
+msgstr "Guia per adequar els formularis"
+
+#: includes/class-ui.ORI.php:1670 includes/class-ui.ORI.php:2111
+#: includes/class-ui.ORI.php:2127 includes/class-ui.ORI.php:2185
+#: includes/class-ui.php:1759 includes/class-ui.php:2248
+#: includes/class-ui.php:2264 includes/class-ui.php:2322
+msgid "Recomendado."
+msgstr "Recomanat."
+
+#: includes/class-ui.ORI.php:1684 includes/class-ui.php:1776
+msgid "Menú en el pie de página"
+msgstr "Menú al peu de pàgina"
+
+#: includes/class-ui.ORI.php:1687 includes/class-ui.php:1779
+msgid "Añade más enlaces"
+msgstr "Afegeix més enllaços"
+
+#: includes/class-ui.ORI.php:1690 includes/class-ui.php:1782
+msgid "Crea un menú en el pie de página con enlaces a los textos legales."
+msgstr "Crea un menú al peu de pàgina amb enllaços als texts legals."
+
+#: includes/class-ui.ORI.php:1704 includes/class-ui.php:1799
+msgid "Carrito de la compra"
+msgstr "Cistella de la compra"
+
+#: includes/class-ui.ORI.php:1706 includes/class-ui.php:1801
+msgid ""
+"Activa la primera capa informativa en la página de checkout de WooCommerce."
+msgstr ""
+"Activa la primera capa informativa a la pàgina de checkout de WooCommerce."
+
+#: includes/class-ui.ORI.php:1718 includes/class-ui.php:1813
+msgid "Consentimiento promocional"
+msgstr "Consentiment promocional"
+
+#: includes/class-ui.ORI.php:1720 includes/class-ui.php:1815
+msgid ""
+"Activa la casilla de consentimiento para promociones en la página de "
+"checkout de WooCommerce."
+msgstr ""
+"Activa la casella de consentiment per a promocions a la pàgina de checkout "
+"de WooCommerce."
+
+#: includes/class-ui.ORI.php:1732 includes/class-ui.php:1827
+#: views/_MUSTACHE.php:1262
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: includes/class-ui.ORI.php:1734 includes/class-ui.php:1829
+msgid "Inserta la capa informativa en cualquier lugar usando el shortcode:"
+msgstr "Insereix la capa informativa a qualsevol lloc usant el shortcode:"
+
+#: includes/class-ui.ORI.php:1736 includes/class-ui.php:1831
+msgid ""
+"[argpd_deber_de_informar finalidad=\"Cumplir con la prestación contratada\" "
+"destinatarios=\"No se ceden los datos\" legitimacion=\"Ejecución del "
+"contrato\"/]"
+msgstr ""
+"[argpd_deber_de_informar finalidad=\"Complir amb la prestació contractada\" "
+"destinatarios=\"No se cedeixen les dades\" legitimacion=\"Execució del "
+"contracte\"/]"
+
+#: includes/class-ui.ORI.php:1746 includes/class-ui.ORI.php:1885
+#: includes/class-ui.php:1841 includes/class-ui.php:2001
+msgid "Textos"
+msgstr "Texts"
+
+#: includes/class-ui.ORI.php:1749 includes/class-ui.php:1844
+msgid "Texto para solicitar el consentimiento en la primera capa informativa:"
+msgstr "Text per sol·licitar el consentiment a la primera capa informativa:"
+
+#: includes/class-ui.ORI.php:1759 includes/class-ui.ORI.php:1780
+#: includes/class-ui.ORI.php:1901 includes/class-ui.php:1863
+#: includes/class-ui.php:1893 includes/class-ui.php:2017
+msgid "Para mostrar el texto por defecto deja en blanco."
+msgstr "Per mostrar el text per defecte deixa en blanc."
+
+#: includes/class-ui.ORI.php:1770 includes/class-ui.php:1874
+msgid "Texto para solicitar el consentimiento promocional:"
+msgstr "Text per sol·licitar el consentiment promocional:"
+
+#: includes/class-ui.ORI.php:1788 includes/class-ui.ORI.php:1970
+#: includes/class-ui.php:1901 includes/class-ui.php:2104
+msgid "Diseño"
+msgstr "Disseny"
+
+#: includes/class-ui.ORI.php:1825 includes/class-ui.ORI.php:1853
+#: includes/class-ui.php:1938 includes/class-ui.php:1966
+msgid "Banner de Cookies"
+msgstr "Banner de Cookies"
+
+#: includes/class-ui.ORI.php:1855 includes/class-ui.php:1968
+msgid "Este apartado sirve para cumplir la ley de Cookies."
+msgstr "Aquest apartat serveix per complir la llei de Cookies."
+
+#: includes/class-ui.ORI.php:1868 includes/class-ui.php:1984
+#: views/_MUSTACHE.php:250 views/_MUSTACHE.php:269
+msgid "Activar"
+msgstr "Activar"
+
+#: includes/class-ui.ORI.php:1878 includes/class-ui.php:1994
+msgid "Banner de Cookies "
+msgstr "Banner de Cookies "
+
+#: includes/class-ui.ORI.php:1889 includes/class-ui.php:2005
+msgid "Texto para solicitar el consentimiento:"
+msgstr "Text per sol·licitar el consentiment:"
+
+#: includes/class-ui.ORI.php:1904 includes/class-ui.php:2020
+msgid "Texto para el enlace a la Política de cookies:"
+msgstr "Text per a l'enllaç a la Política de cookies:"
+
+#: includes/class-ui.ORI.php:1913 includes/class-ui.php:2038
+msgid "Texto para el botón Aceptar:"
+msgstr "Text per al botó Acceptar:"
+
+#: includes/class-ui.ORI.php:1921 includes/class-ui.php:2046
+msgid "Texto para el botón Rechazar:"
+msgstr "Text per al botó Rebutjar:"
+
+#: includes/class-ui.ORI.php:1938 includes/class-ui.php:2063
+msgid "Página vinculada a"
+msgstr "Pàgina vinculada a"
+
+#: includes/class-ui.ORI.php:1939 includes/class-ui.php:2064
+msgid "la Política de Cookies"
+msgstr "la Política de Cookies"
+
+#: includes/class-ui.ORI.php:1962 includes/class-ui.php:2096
+msgid ""
+"Selecciona la página a la que apunta el enlace \"Ver Política de Cookies\"."
+msgstr "Selecciona la pàgina on apunta l'enllaç \"Veure Política de Cookies\"."
+
+#: includes/class-ui.ORI.php:1984 includes/class-ui.php:2118
+msgid "Cómo personalizar con CSS"
+msgstr "Com personalitzar amb CSS"
+
+#: includes/class-ui.ORI.php:1997 includes/class-ui.php:2131
+msgid "Botón para &laquo;Configurar cookies&raquo;"
+msgstr "Botó per a &laquo;Configurar cookies&raquo;"
+
+#: includes/class-ui.ORI.php:2000 includes/class-ui.ORI.php:2014
+#: includes/class-ui.php:2134 includes/class-ui.php:2148
+msgid "Recomendado"
+msgstr "Recomanat"
+
+#: includes/class-ui.ORI.php:2011 includes/class-ui.php:2145
+msgid "Botón flotante para mostrar el Banner de Cookies"
+msgstr "Botó flotant per mostrar el Banner de Cookies"
+
+#: includes/class-ui.ORI.php:2027 includes/class-ui.php:2161
+msgid "Listado de Cookies"
+msgstr "Llistat de Cookies"
+
+#: includes/class-ui.ORI.php:2037 includes/class-ui.php:2171
+msgid "Listado"
+msgstr "Llistat"
+
+#: includes/class-ui.ORI.php:2038 includes/class-ui.php:2172
+msgid "de cookies"
+msgstr "de cookies"
+
+#: includes/class-ui.ORI.php:2058 includes/class-ui.ORI.php:2060
+#: includes/class-ui.php:2192 includes/class-ui.php:2194
+msgid "Detectar cookies ahora"
+msgstr "Detectar cookies ara"
+
+#: includes/class-ui.ORI.php:2079 includes/class-ui.php:2216
+msgid "Bloqueo de Cookies"
+msgstr "Bloqueig de Cookies"
+
+#: includes/class-ui.ORI.php:2090 includes/class-ui.php:2227
+msgid "Bloqueo de"
+msgstr "Bloqueig de"
+
+#: includes/class-ui.ORI.php:2091 includes/class-ui.php:2228
+msgid "scripts"
+msgstr "scripts"
+
+#: includes/class-ui.ORI.php:2106 includes/class-ui.php:2243
+msgid "Bloquea scripts conocidos"
+msgstr "Bloqueja scripts coneguts"
+
+#: includes/class-ui.ORI.php:2109 includes/class-ui.php:2246
+msgid ""
+"Bloquea los scripts conocidos de analítica como Google analytics, Recaptcha, "
+"Facebook analytics, ... y de redes sociales como Twitter o Disqus mientras "
+"no haya consentimiento."
+msgstr ""
+"Bloqueja els scripts coneguts d'analítica com Google analytics, Recaptcha, "
+"Facebook analytics... i de xarxes socials com Twitter o Disqus mentre no hi "
+"hagi consentiment."
+
+#: includes/class-ui.ORI.php:2122 includes/class-ui.php:2259
+msgid "Bloquea iframes"
+msgstr "Bloqueja iframes"
+
+#: includes/class-ui.ORI.php:2125 includes/class-ui.php:2262
+msgid "Bloquea iframes mientras no haya consentimiento."
+msgstr "Bloqueja iframes mentre no hi hagi consentiment."
+
+#: includes/class-ui.ORI.php:2131 includes/class-ui.php:2268
+msgid "Bloquea scripts registrados por plugins instalados"
+msgstr "Bloqueja scripts registrats per extensions instal·lades"
+
+#: includes/class-ui.ORI.php:2162 includes/class-ui.php:2299
+msgid "Ningún script detectado."
+msgstr "Cap script detectat."
+
+#: includes/class-ui.ORI.php:2166 includes/class-ui.php:2303
+msgid ""
+"Desactiva los scripts marcados mientras el usuario no dé el consentimiento "
+"para instalar cookies."
+msgstr ""
+"Desactiva els scripts marcats mentre l'usuari no doni el consentiment per "
+"instal·lar cookies."
+
+#: includes/class-ui.ORI.php:2173 includes/class-ui.php:2310
+msgid "Avanzado"
+msgstr "Avançat"
+
+#: includes/class-ui.ORI.php:2182 includes/class-ui.php:2319
+msgid "Recarga la página cuando el usuario acepte las cookies"
+msgstr "Recarrega la pàgina quan l'usuari accepti les cookies"
+
+#: includes/class-ui.ORI.php:2295 includes/class-ui.ORI.php:2302
+#: includes/class-ui.php:2432 includes/class-ui.php:2439
+msgid "Clave de la API"
+msgstr "Clau de l'API"
+
+#: includes/class-ui.ORI.php:2359 includes/class-ui.php:2499
+msgid "Recoger consentimientos"
+msgstr "Recollir consentiments"
+
+#: includes/class-ui.ORI.php:2377 includes/class-ui.php:2517
+msgid "Documentación del consentimiento"
+msgstr "Documentació del consentiment"
+
+#: includes/class-ui.ORI.php:2413 includes/class-ui.php:2559
+msgid "Buscar"
+msgstr "Cerca"
+
+#: includes/class-ui.ORI.php:2426 includes/class-ui.ORI.php:2443
+#: includes/class-ui.php:2572 includes/class-ui.php:2589
+msgid "Id"
+msgstr "Id"
+
+#: includes/class-ui.ORI.php:2427 includes/class-ui.ORI.php:2444
+#: includes/class-ui.php:2573 includes/class-ui.php:2590
+msgid "Fecha"
+msgstr "Data"
+
+#: includes/class-ui.ORI.php:2428 includes/class-ui.ORI.php:2445
+#: includes/class-ui.php:2574 includes/class-ui.php:2591
+msgid "Usuario"
+msgstr "Usuari"
+
+#: includes/class-ui.ORI.php:2429 includes/class-ui.php:2575
+msgid "Ip"
+msgstr "Ip"
+
+#: includes/class-ui.ORI.php:2430 includes/class-ui.ORI.php:2447
+#: includes/class-ui.php:2576 includes/class-ui.php:2593
+msgid "User agent"
+msgstr "Agent d'usuari"
+
+#: includes/class-ui.ORI.php:2431 includes/class-ui.ORI.php:2448
+#: includes/class-ui.php:2577 includes/class-ui.php:2594
+msgid "Url"
+msgstr "Url"
+
+#: includes/class-ui.ORI.php:2432 includes/class-ui.ORI.php:2449
+#: includes/class-ui.php:2578 includes/class-ui.php:2595
+msgid "Nec."
+msgstr "Nec."
+
+#: includes/class-ui.ORI.php:2433 includes/class-ui.ORI.php:2450
+#: includes/class-ui.php:2579 includes/class-ui.php:2596
+msgid "No nec."
+msgstr "No nec."
+
+#: includes/class-ui.ORI.php:2434 includes/class-ui.ORI.php:2451
+#: includes/class-ui.php:2580 includes/class-ui.php:2597
+msgid "Anltca"
+msgstr "Anltca"
+
+#: includes/class-ui.ORI.php:2435 includes/class-ui.ORI.php:2452
+#: includes/class-ui.php:2581 includes/class-ui.php:2598
+msgid "Markt."
+msgstr "Markt."
+
+#: includes/class-ui.ORI.php:2436 includes/class-ui.ORI.php:2453
+#: includes/class-ui.php:2582 includes/class-ui.php:2599
+msgid "Promoc."
+msgstr "Promoc."
+
+#: includes/class-ui.ORI.php:2437 includes/class-ui.ORI.php:2454
+#: includes/class-ui.php:2583 includes/class-ui.php:2600
+msgid "Raw"
+msgstr "Raw"
+
+#: includes/class-ui.ORI.php:2446 includes/class-ui.php:2592
+msgid "IP"
+msgstr "IP"
+
+#: includes/class-ui.ORI.php:2461 includes/class-ui.php:2607
+msgid "Cerrar"
+msgstr "Tancar"
+
+#: includes/class-ui.ORI.php:2492 includes/class-ui.php:2641
+msgid "Algo fue mal."
+msgstr "Alguna cosa va anar malament."
+
+#: includes/class-ui.ORI.php:2498 includes/class-ui.php:2647
+msgid "Los cambios se han guardado."
+msgstr "Els canvis s'han desat."
+
+#: includes/class-ui.ORI.php:2501 includes/class-ui.php:2650
+msgid "La página ya existe."
+msgstr "La pàgina ja existeix."
+
+#: includes/class-ui.php:1018
+msgid "Análisis web"
+msgstr "Anàlisi web"
+
+#: includes/class-ui.php:1033
+msgid "Publicidad"
+msgstr "Publicitat"
+
+#: includes/class-ui.php:1069
+msgid "Email Marketing"
+msgstr "Email màrqueting"
+
+#: includes/class-ui.php:1145
+msgid "Redes Sociales"
+msgstr "Xarxes Socials"
+
+#: includes/class-ui.php:1210
+msgid "Ciudadanos europeos:"
+msgstr "Ciutadans europeus:"
+
+#: includes/class-ui.php:1376 includes/class-ui.php:1461
+#: includes/class-ui.php:1546 includes/class-ui.php:1630
+#: includes/class-ui.php:2085
+msgid "Ninguna"
+msgstr "Cap"
+
+#: includes/class-ui.php:1398
+msgid ""
+"Escoge la página dónde aparecerá el Aviso Legal"
+msgstr ""
+"Escull la pàgina on apareixerà l'Avís Legal"
+
+#: includes/class-ui.php:1482
+msgid ""
+"Escoge la página dónde aparecerá la Política de Privacidad"
+msgstr ""
+"Escoge la pàgina on apareixerà la Política de Privacitat"
+
+#: includes/class-ui.php:1499
+msgid "Aprende a crear la Política de Privacidad"
+msgstr "Aprèn a crear la Política de Privacitat"
+
+#: includes/class-ui.php:1567
+msgid ""
+"Escoge la página dónde aparecerá la Política de Cookies"
+msgstr ""
+"Escoge la pàgina on apareixerà la Política de Cookies"
+
+#: includes/class-ui.php:1583
+msgid "Aprende a cumplir la Ley de Cookies"
+msgstr "Aprèn a complir la Llei de Cookies"
+
+#: includes/class-ui.php:1651
+msgid ""
+"Escoge la página dónde aparecerá la Personalización de Cookies"
+msgstr ""
+"Escoge la pàgina on apareixerà la Personalització de Cookies"
+
+#: includes/class-ui.php:1651
+msgid ""
+"crea una nueva"
+msgstr ""
+"crea una nova"
+
+#: includes/class-ui.php:1651
+msgid ""
+"o usa el shortcode"
+msgstr ""
+"o utilitza el shortcode"
+
+#: includes/class-ui.php:1660
+msgid ""
+"Página que permite al usuario configurar sus preferencias en relación con "
+"las cookies."
+msgstr ""
+"Pàgina que permet a l'usuari configurar les seves preferències en relació "
+"amb les cookies."
+
+#: includes/class-ui.php:1695
+msgid "Indexar o no indexar"
+msgstr "Indexar o no indexar"
+
+#: includes/class-ui.php:1766
+msgid "Pie de página"
+msgstr "Peu de pàgina"
+
+#: includes/class-ui.php:1789
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/class-ui.php:1859
+msgid "He leído y acepto la política de privacidad."
+msgstr "He llegit i accepto la política de privacitat."
+
+#: includes/class-ui.php:1889
+msgid ""
+"Acepto recibir ofertas, noticias y otras recomendaciones sobre productos o "
+"servicios."
+msgstr ""
+"Accepto rebre ofertes, notícies i altres recomanacions sobre productes o "
+"serveis."
+
+#: includes/class-ui.php:1974
+msgid "Aprende más aquí."
+msgstr "Aprèn més aquí."
+
+#: includes/class-ui.php:2202
+msgid ""
+"Para activar el detector de cookies obtén una clave de API. Para más "
+"detalles, consulta"
+msgstr ""
+"Per activar el detector de galetes obtindreu una clau d'API. Per a més "
+"detalls, consulta"
+
+#: includes/class-ui.php:2202 includes/class-ui.php:2523
+msgid "aquí"
+msgstr "aquí"
+
+#: includes/class-ui.php:2445
+msgid ""
+"Clica aquí para conseguir tu clave."
+msgstr ""
+"Clica aquí per aconseguir la teva clau."
+
+
+#: includes/class-ui.php:2445
+msgid ""
+"Consigue tu Clave API. Podrás escanear tu sitio y obtener información "
+"detallada de las cookies instaladas, Local Storage, pixels y otras "
+"tecnologías de rastreo con sólo hacer click en un botón y, la versión plus "
+"recoger consentimientos de tus visitantes."
+msgstr ""
+"Aconsegueix la teva Clau API. Podràs escanejar el teu lloc i obtenir "
+"informació detallada de les cookies instal·lades, Local Storage, píxels i "
+"altres tecnologies de rastreig només fent clic en un botó i, la versió plus "
+"recollir consentiments dels teus visitants."
+
+
+#: includes/class-ui.php:2523
+msgid ""
+"Para activar el gestor de consentimientos obtén una clave de API."
+msgstr ""
+"Per activar el gestor de consentiments obtindreu una clau d'API."
+
+#: includes/class-ui.php:2540
+msgid ""
+"Registro de consentimientos"
+msgstr ""
+"Registre de consentiments"
+
+#: includes/class-ui.php:2540
+msgid ""
+"en los últimos 30 días"
+msgstr ""
+"en els darrers 30 dies"
+
+#: includes/class-ui.php:2631
+msgid "Hosting Premium WordPress Administrado"
+msgstr "Hosting Premium WordPress Administrat"
+
+#: includes/class-ui.php:2665
+msgid "Descartar este aviso."
+msgstr "Descartar aquest avís."
+
+#: includes/class-ui.php:2675
+msgid "Cumple con la RGPD"
+msgstr "Compleix la RGPD"
+
+#: includes/class-ui.php:2681
+msgid ""
+"<b>¡Ayuda a mejorar el plugin!</b> Danos tu valoración de ★★★★★ <span><b><a "
+"href=\"https://wordpress.org/support/plugin/adapta-rgpd/reviews?rate=5#new-"
+"post\">aquí</a>.</b></span>"
+msgstr ""
+"<b>Ajuda a millorar l'extensió!</b> Dona'ns la teva valoració de ★★★★★ "
+"<span><b><a href=\"https://wordpress.org/support/plugin/adapta-rgpd/reviews?"
+"rate=5#new-post\">aquí</a>.</b></span>"
+
+#: views/_MUSTACHE.php:10
+msgid ""
+"Herramienta de ayuda para el cumplimiento del RGPD para empresas que "
+"realicen un tratamiento de datos personales de escaso riesgo."
+msgstr ""
+"Eina d'ajuda per al compliment del RGPD per a empreses que facin un "
+"tractament de dades personals de risc escàs."
+
+#: views/_MUSTACHE.php:12
+msgid "¿Qué son las cookies?"
+msgstr "Què són les cookies?"
+
+#: views/_MUSTACHE.php:15
+msgid ""
+"En inglés, el término \"cookie\" significa galleta, pero en el ámbito de la "
+"navegación web, una \"cookie\" es algo completamente distinto. Cuando accede "
+"a nuestro Sitio Web, en el navegador de su dispositivo se almacena una "
+"pequeña cantidad de texto que se denomina \"cookie\". Este texto contiene "
+"información variada sobre su navegación, hábitos, preferencias, "
+"personalizaciones de contenidos, etc..."
+msgstr ""
+"En anglès, el terme \"cookie\" significa galeta, però en l'àmbit de la "
+"navegació web, una \"cookie\" és una cosa completament diferent. Quan "
+"accediu al nostre Lloc Web, al navegador del dispositiu s'emmagatzema una "
+"petita quantitat de text que s'anomena \"cookie\". Aquest text conté "
+"informació variada sobre la vostra navegació, hàbits, preferències, "
+"personalitzacions de continguts..."
+
+#: views/_MUSTACHE.php:19
+msgid ""
+"Existen otras tecnologías que funcionan de manera similar y que también se "
+"usan para recopilar datos sobre tu actividad de navegación. Llamaremos "
+"\"cookies\" a todas estas tecnologías en su conjunto."
+msgstr ""
+"Hi ha altres tecnologies que funcionen de manera similar i que també es fan "
+"servir per recopilar dades sobre la teva activitat de navegació. Anomenarem "
+"“cookies” a totes aquestes tecnologies en conjunt."
+
+#: views/_MUSTACHE.php:23
+msgid ""
+"Los usos concretos que hacemos de estas tecnologías se describen en el "
+"presente documento."
+msgstr ""
+"Els usos concrets que fem d'aquestes tecnologies es descriuen al present "
+"document."
+
+#: views/_MUSTACHE.php:26
+msgid "¿Para qué se utilizan las cookies en esta web?"
+msgstr "Per a què s'utilitzen les cookies en aquesta web?"
+
+#: views/_MUSTACHE.php:29
+msgid ""
+"Las cookies son una parte esencial de cómo funciona el Sitio Web. El "
+"objetivo principal de nuestras cookies es mejorar su experiencia en la "
+"navegación. Por ejemplo, para recordar sus preferencias (idioma, país, etc.) "
+"durante la navegación y en futuras visitas. La información recogida en las "
+"cookies nos permite además mejorar la web, adaptarla a sus intereses como "
+"usuario, acelerar las búsquedas que realice, etc.."
+msgstr ""
+"Les cookies són una part essencial de com funciona el Lloc Web. L'objectiu "
+"principal de les nostres cookies és millorar la seva experiència en la "
+"navegació. Per exemple, per recordar les vostres preferències (idioma, país, "
+"etc.) durant la navegació i en futures visites. La informació recollida a "
+"les cookies ens permet a més millorar la web, adaptar-la als seus interessos "
+"com a usuari, accelerar les cerques que realitzi, etc."
+
+#: views/_MUSTACHE.php:33
+msgid ""
+"En determinados casos, si hemos obtenido su previo consentimiento informado, "
+"podremos utilizar cookies para otros usos, como por ejemplo para obtener "
+"información que nos permita mostrarle publicidad basada en el análisis de "
+"sus hábitos de navegación."
+msgstr ""
+"En determinats casos, si hem obtingut el previ consentiment informat, podrem "
+"utilitzar cookies per a altres usos, com per exemple per obtenir informació "
+"que ens permeti mostrar publicitat basada en l'anàlisi dels seus hàbits de "
+"navegació."
+
+#: views/_MUSTACHE.php:36
+msgid "¿Para qué NO se utilizan las cookies en esta web?"
+msgstr "Per a què NO s'utilitzen les cookies en aquesta web?"
+
+#: views/_MUSTACHE.php:39
+msgid ""
+"En las cookies que utilizamos no se almacena información sensible de "
+"identificación personal como su nombre, dirección, tu contraseña, etc..."
+msgstr ""
+"A les cookies que utilitzem no s'emmagatzema informació delicada "
+"d'identificació personal com el nom, l'adreça, la contrasenya..."
+
+#: views/_MUSTACHE.php:42
+msgid "¿Quién utiliza la información almacenada en las cookies?"
+msgstr "Qui utilitza la informació emmagatzemada a les cookies?"
+
+#: views/_MUSTACHE.php:45
+msgid ""
+"La información almacenada en las cookies de nuestro Sitio Web es utilizada "
+"exclusivamente por nosotros, a excepción de aquellas identificadas más "
+"adelante como \"cookie de terceros\", que son utilizadas y gestionadas por "
+"entidades externas que nos proporcionan servicios que mejoran la experiencia "
+"del usuario. Por ejemplo las estadísticas que se recogen sobre el número de "
+"visitas, el contenido que más gusta, etc... "
+msgstr ""
+"La informació emmagatzemada a les cookies del nostre Lloc Web és utilitzada "
+"exclusivament per nosaltres, a excepció d'aquelles identificades més "
+"endavant com a \"cookie de tercers\", que són utilitzades i gestionades per "
+"entitats externes que ens proporcionen serveis que milloren l'experiència de "
+"l'usuari. Per exemple les estadístiques que es recullen sobre el nombre de "
+"visites, el contingut que més agrada... "
+
+#: views/_MUSTACHE.php:45
+msgid "lo suele gestionar Google Analytics."
+msgstr "ho sol gestionar Google Analytics."
+
+#: views/_MUSTACHE.php:49
+msgid ""
+"Las cookies de terceros también se suelen utilizar para garantizar las "
+"operaciones de pago realizadas a través del Sitio Web."
+msgstr ""
+"Les cookies de tercers també se solen utilitzar per garantir les operacions "
+"de pagament realitzades a través del Lloc Web."
+
+#: views/_MUSTACHE.php:52
+msgid "¿Cómo puede evitar el uso de cookies en este Sitio Web?"
+msgstr "Com podeu evitar l'ús de cookies en aquest Lloc Web?"
+
+#: views/_MUSTACHE.php:55
+msgid ""
+"Si prefiere evitar el uso de las cookies, puede RECHAZAR su uso o puede "
+"CONFIGURAR las que quiere evitar y las que permite utilizar (en este "
+"documento le damos información ampliada al respecto de cada tipo de cookie, "
+"su finalidad, destinatario, temporalidad, etc... )."
+msgstr ""
+"Si preferiu evitar l'ús de les cookies, podeu REBUTJAR-NE l'ús o podeu "
+"CONFIGURAR-NE les que voleu evitar i les que permeteu utilitzar (en aquest "
+"document us donem informació ampliada respecte a cada tipus de cookie, la "
+"finalitat, destinatari, temporalitat...)."
+
+#: views/_MUSTACHE.php:59
+msgid ""
+"Si las ha aceptado, no volveremos a preguntarle a menos que borre las "
+"cookies en su dispositivo según se indica en el apartado siguiente. Si "
+"quiere revocar el consentimiento tendrá que eliminar las cookies y volver a "
+"configurarlas."
+msgstr ""
+"Si les heu acceptat, no tornarem a preguntar-vos a menys que esborreu les "
+"cookies al dispositiu segons s'indica a l'apartat següent. Si voleu revocar "
+"el consentiment, haureu d'eliminar les cookies i tornar a configurar-les."
+
+#: views/_MUSTACHE.php:63
+msgid "¿Cómo deshabilito y elimino la utilización de cookies?"
+msgstr "Com deshabilito i elimino la utilització de cookies?"
+
+#: views/_MUSTACHE.php:66
+msgid ""
+"El Titular muestra información sobre su Política de cookies {{#option-"
+"footer}}en el menú del pie de página y {{/option-footer}}en el banner de "
+"cookies accesible en todas las páginas del Sitio Web. El banner de cookies "
+"muestra información esencial sobre el tratamiento de datos y permite al "
+"Usuario realizar las siguientes acciones"
+msgstr ""
+"El Titular mostra informació sobre la seva Política de cookies {{#option-"
+"footer}}al menú del peu de pàgina i {{/option-footer}}al banner de cookies "
+"accessible a totes les pàgines del Lloc Web. El banner de cookies mostra "
+"informació essencial sobre el tractament de dades i permet a l'Usuari "
+"realitzar les accions següents"
+
+#: views/_MUSTACHE.php:70
+msgid ""
+"ACEPTAR o RECHAZAR la instalación de cookies, o retirar el consentimiento "
+"previamente otorgado."
+msgstr ""
+"ACCEPTAR o REBUTJAR la instal·lació de cookies, o retirar el consentiment "
+"prèviament atorgat."
+
+#: views/_MUSTACHE.php:71
+msgid ""
+"Cambiar las preferencias de cookies desde la página Personalizar Cookies, a "
+"la que puede acceder desde el Aviso de Cookies o desde la página de "
+msgstr ""
+"Canviar les preferències de cookies des de la pàgina Personalitzar Cookies, "
+"a la qual podeu accedir des de l'Avís de Cookies o des de la pàgina de "
+
+#: views/_MUSTACHE.php:71
+msgid "Personalizar Cookies"
+msgstr "Personalitzar Cookies"
+
+#: views/_MUSTACHE.php:73
+msgid "Obtener información adicional en la página de "
+msgstr "Obtenir informació addicional a la pàgina de "
+
+#: views/_MUSTACHE.php:78
+msgid ""
+"Para restringir, bloquear o borrar las cookies de este Sitio Web (y las "
+"usada por terceros) puede hacerlo, en cualquier momento, modificando la "
+"configuración de su navegador. Tenga en cuenta que esta configuración es "
+"diferente en cada navegador."
+msgstr ""
+"Per restringir, bloquejar o esborrar les cookies d'aquest Lloc Web (i les "
+"utilitzades per tercers) ho podeu fer, en qualsevol moment, modificant la "
+"configuració del vostre navegador. Tingueu en compte que aquesta "
+"configuració és diferent a cada navegador."
+
+#: views/_MUSTACHE.php:82
+msgid ""
+"En los siguientes enlaces encontrará instrucciones para habilitar o "
+"deshabilitar las cookies en los navegadores más comunes."
+msgstr ""
+"Als següents enllaços trobareu instruccions per habilitar o deshabilitar les "
+"cookies en els navegadors més comuns."
+
+#: views/_MUSTACHE.php:96
+msgid "¿Qué tipos de cookies se utilizan en esta página web?"
+msgstr "Quins tipus de cookies s'utilitzen en aquesta pàgina web?"
+
+#: views/_MUSTACHE.php:99
+msgid ""
+"Cada página web utiliza sus propias cookies. En nuestra web utilizamos las "
+"que se indican a continuación:"
+msgstr ""
+"Cada pàgina web utilitza les seves pròpies cookies. A la nostra web "
+"utilitzem les que s'indiquen a continuació:"
+
+#: views/_MUSTACHE.php:103
+msgid "SEGÚN LA ENTIDAD QUE LO GESTIONA"
+msgstr "SEGONS L'ENTITAT QUE HO GESTIONA"
+
+#: views/_MUSTACHE.php:107
+msgid "Cookies propias:"
+msgstr "Cookies pròpies:"
+
+#: views/_MUSTACHE.php:111
+msgid ""
+"Son aquellas que se envían al equipo terminal del Usuario desde un equipo o "
+"dominio gestionado por el propio editor y desde el que se presta el servicio "
+"solicitado por el Usuario."
+msgstr ""
+"Són aquelles que s'envien a l'equip terminal de l'usuari des d'un equip o "
+"domini gestionat pel mateix editor i des del qual es presta el servei "
+"sol·licitat per l'usuari."
+
+#: views/_MUSTACHE.php:115
+msgid "Cookies de terceros:"
+msgstr "Cookies de tercers:"
+
+#: views/_MUSTACHE.php:119
+msgid ""
+"Son aquellas que se envían al equipo terminal del Usuario desde un equipo o "
+"dominio que no es gestionado por el editor, sino por otra entidad que trata "
+"los datos obtenidos través de las cookies."
+msgstr ""
+"Són aquelles que s'envien a l'equip terminal de l'Usuari des d'un equip o "
+"domini que no és gestionat per l'editor, sinó per una altra entitat que "
+"tracta les dades obtingudes a través de les cookies."
+
+#: views/_MUSTACHE.php:123
+msgid ""
+"En el caso de que las cookies sean servidas desde un equipo o dominio "
+"gestionado por el propio editor, pero la información que se recoja mediante "
+"estas sea gestionada por un tercero, no pueden ser consideradas como cookies "
+"propias si el tercero las utiliza para sus propias finalidades (por ejemplo, "
+"la mejora de los servicios que presta o la prestación de servicios de "
+"carácter publicitario a favor de otras entidades)."
+msgstr ""
+"En el cas que les cookies siguin servides des d'un equip o domini gestionat "
+"pel mateix editor, però la informació que es reculli mitjançant aquestes "
+"sigui gestionada per un tercer, no poden ser considerades com a cookies "
+"pròpies si el tercer les utilitza per a les seves pròpies finalitats (per "
+"exemple, la millora dels serveis que presta o la prestació de serveis de "
+"caràcter publicitari a favor d'altres entitats)."
+
+#: views/_MUSTACHE.php:127
+msgid "SEGÚN SU FINALIDAD"
+msgstr "SEGONS LA SEVA FINALITAT"
+
+#: views/_MUSTACHE.php:131
+msgid "Cookies técnicas:"
+msgstr "Cookies tècniques:"
+
+#: views/_MUSTACHE.php:135
+msgid ""
+"Son aquellas necesarias para la navegación y el buen funcionamiento de "
+"nuestro Sitio Web, como por ejemplo, controlar el tráfico y la comunicación "
+"de datos, identificar la sesión, acceder a partes de acceso restringido,"
+"{{#es-tienda}}recordar los elementos que integran un pedido, realizar el "
+"proceso de compra de un pedido, gestionar el pago, controlar el fraude "
+"vinculado a la seguridad del servicio,{{/es-tienda}} realizar la solicitud "
+"de inscripción o participación en un evento, contar visitas a efectos de la "
+"facturación de licencias del software con el que funciona el servicio del "
+"Sitio Web, utilizar elementos de seguridad durante la navegación, almacenar "
+"contenidos para la difusión de vídeos o sonido, habilitar contenidos "
+"dinámicos (por ejemplo, animación de carga de un texto o imagen){{# "
+"thirdparty-social }} o compartir contenidos a través de redes sociales{{/ "
+"thirdparty-social }}."
+msgstr ""
+"Són aquelles necessàries per a la navegació i el bon funcionament del nostre "
+"Lloc Web, com per exemple, controlar el trànsit i la comunicació de dades, "
+"identificar la sessió, accedir a parts d'accés restringit, {{#es-tienda}}"
+"recordar els elements que integren una comanda, realitzar el procés de "
+"compra d'una comanda, gestionar el pagament, controlar el frau vinculat a la "
+"seguretat del servei, {{/es-tienda}}comptar visites a l'efecte de la "
+"facturació de llicències del programari amb què funciona el servei del Lloc "
+"Web, utilitzar elements de seguretat durant la navegació, emmagatzemar "
+"continguts per a la difusió de vídeos o so, habilitar continguts dinàmics "
+"(per exemple, animació de càrrega d'un text o imatge){{# thirdparty-"
+"social }} o compartir continguts a través de xarxes socials{{/ thirdparty-"
+"social }}."
+
+#: views/_MUSTACHE.php:139
+msgid "Cookies de análisis:"
+msgstr "Cookies d'anàlisi:"
+
+#: views/_MUSTACHE.php:143
+msgid ""
+"Permiten cuantificar el número de usuarios y así realizar la medición y "
+"análisis estadístico de la utilización que hacen los usuarios del Sitio Web."
+msgstr ""
+"Permeten quantificar el nombre d'usuaris i així realitzar el mesurament i "
+"l'anàlisi estadística de la utilització que fan els usuaris del Lloc Web."
+
+#: views/_MUSTACHE.php:143
+msgid ""
+"Para ello se analiza su navegación en nuestro Sitio Web con el fin de "
+"mejorar la oferta de productos o servicios que le ofrecemos."
+msgstr ""
+"Per això s'analitza la vostra navegació al nostre Lloc Web per tal de "
+"millorar l'oferta de productes o serveis que us oferim."
+
+#: views/_MUSTACHE.php:147
+msgid "Cookies de preferencias o personalización:"
+msgstr "Cookies de preferències o personalització:"
+
+#: views/_MUSTACHE.php:151
+msgid ""
+"Son aquellas que permiten recordar información para que el Usuario acceda al "
+"servicio con determinadas características que pueden diferenciar su "
+"experiencia de la de otros usuarios, como, por ejemplo, el idioma, el número "
+"de resultados a mostrar cuando el Usuario realiza una búsqueda, el aspecto o "
+"contenido del servicio en función del tipo de navegador a través del cual el "
+"Usuario accede al servicio o de la región desde la que accede al servicio, "
+"etc."
+msgstr ""
+"Són aquelles que permeten recordar informació perquè l'Usuari accedeixi al "
+"servei amb determinades característiques que poden diferenciar la seva "
+"experiència de la d'altres usuaris, com ara l'idioma, el nombre de resultats "
+"a mostrar quan l'Usuari realitza una cerca, l'aspecte o el contingut del "
+"servei en funció del tipus de navegador a través del qual l'Usuari accedeix "
+"al servei o de la regió des de la qual accedeix al servei, etc."
+
+#: views/_MUSTACHE.php:156
+msgid "Publicitarias comportamentales:"
+msgstr "Publicitàries comportamentals:"
+
+#: views/_MUSTACHE.php:160
+msgid ""
+"Son aquellas que, tratadas por nosotros o por terceros, nos permiten "
+"analizar sus hábitos de navegación en Internet para que podamos mostrarle "
+"publicidad relacionada con su perfil de navegación."
+msgstr ""
+"Són aquelles que, tractades per nosaltres o per tercers, ens permeten "
+"analitzar els seus hàbits de navegació a Internet perquè puguem mostrar "
+"publicitat relacionada amb el seu perfil de navegació."
+
+#: views/_MUSTACHE.php:166
+msgid "Cookies de afiliación:"
+msgstr "Cookies d'afiliació:"
+
+#: views/_MUSTACHE.php:170
+msgid ""
+"Son aquellas que permiten hacer un seguimiento de las visitas procedentes de "
+"otras webs, con las que el Titular tiene un contrato de afiliación."
+msgstr ""
+"Són les que permeten fer un seguiment de les visites procedents d'altres "
+"webs, amb què el Titular té un contracte d'afiliació."
+
+#: views/_MUSTACHE.php:174
+msgid ""
+"El Titular participa en el Programa de Afiliados de Amazon EU. Amazon y "
+"otros anunciantes pueden instalar cookies en su equipo que sirven para "
+"obtener información, ofrecerle anuncios, mostrar contenido basado en sus "
+"intereses o para hacer un seguimiento de su navegación, guardando la "
+"información de afiliado por si realiza una compra en las siguientes 24 horas."
+msgstr ""
+"El Titular participa al Programa d'Afiliats d'Amazon EU. Amazon i altres "
+"anunciants poden instal·lar cookies al vostre equip que serveixen per "
+"obtenir informació, oferir-vos anuncis, mostrar contingut basat en els seus "
+"interessos o per fer un seguiment de la vostra navegació, guardant la "
+"informació d'afiliat per si realitza una compra en les següents 24 hores."
+
+#: views/_MUSTACHE.php:178
+msgid "Encontrará más información en: "
+msgstr "Trobareu més informació a: "
+
+#: views/_MUSTACHE.php:178
+msgid "Programa de afiliados de Amazon."
+msgstr "Programa d'afiliats d'Amazon."
+
+#: views/_MUSTACHE.php:178
+msgid "Aviso sobre publicidad basada en los intereses del usuario."
+msgstr "Avís sobre publicitat basada en els interessos de lusuari."
+
+#: views/_MUSTACHE.php:183
+msgid "SEGÚN EL PLAZO DE TIEMPO QUE PERMANECEN ACTIVADAS"
+msgstr "SEGONS EL TERMINI DE TEMPS QUE ROMANEN ACTIVADES"
+
+#: views/_MUSTACHE.php:187
+msgid "Cookies de sesión:"
+msgstr "Cookies de sessió:"
+
+#: views/_MUSTACHE.php:191
+msgid ""
+"Son aquellas diseñadas para recabar y almacenar datos mientras el Usuario "
+"accede a una página web."
+msgstr ""
+"Són aquelles dissenyades per demanar i emmagatzemar dades mentre l'Usuari "
+"accedeix a una pàgina web."
+
+#: views/_MUSTACHE.php:195
+msgid ""
+"Se suelen emplear para almacenar información que solo interesa conservar "
+"para la prestación del servicio solicitado por el Usuario en una sola "
+"ocasión (por ejemplo, una lista de productos adquiridos) y desaparecen al "
+"terminar la sesión."
+msgstr ""
+"Se solen emprar per emmagatzemar informació que només interessa conservar "
+"per a la prestació del servei sol·licitat per l'Usuari en una sola ocasió "
+"(per exemple, una llista de productes adquirits) i desapareixen en acabar la "
+"sessió."
+
+#: views/_MUSTACHE.php:199
+msgid "Cookies persistentes:"
+msgstr "Cookies persistents:"
+
+#: views/_MUSTACHE.php:203
+msgid ""
+"Son aquellas en las que los datos siguen almacenados en el terminal y pueden "
+"ser accedidos y tratados durante un periodo definido por el responsable de "
+"la cookie, y que puede ir de unos minutos a varios años. A este respecto "
+"debe valorarse específicamente si es necesaria la utilización de cookies "
+"persistentes, puesto que los riesgos para la privacidad podrían reducirse "
+"mediante la utilización de cookies de sesión. En todo caso, cuando se "
+"instalen cookies persistentes, se recomienda reducir al mínimo necesario su "
+"duración temporal atendiendo a la finalidad de su uso. A estos efectos, el "
+"Dictamen 4/2012 del GT29 indicó que para que una cookie pueda estar exenta "
+"del deber de consentimiento informado, su caducidad debe estar relacionada "
+"con su finalidad. Debido a ello, es mucho más probable que se consideren "
+"como exceptuadas las cookies de sesión que las persistentes."
+msgstr ""
+"Són aquelles en què les dades continuen emmagatzemades al terminal i poden "
+"ser accedides i tractades durant un període definit pel responsable de la "
+"cookie, i que pot anar d'uns minuts a diversos anys. Pel que fa a això, s'ha "
+"de valorar específicament si és necessària la utilització de cookies "
+"persistents, ja que els riscos per a la privacitat podrien reduir-se "
+"mitjançant la utilització de cookies de sessió. En tot cas, quan "
+"s'instal·lin cookies persistents, es recomana reduir al mínim necessari la "
+"seva durada temporal atenent la finalitat del seu ús. A aquests efectes, el "
+"Dictamen 4/2012 del GT29 va indicar que perquè una cookie pugui estar "
+"exempta del deure de consentiment informat, la seva caducitat ha d'estar "
+"relacionada amb la finalitat. A causa d'això, és molt més probable que es "
+"considerin exceptuades les cookies de sessió que les persistents."
+
+#: views/_MUSTACHE.php:208
+msgid "Detalle de cookies utilizadas en esta web:"
+msgstr "Detall de cookies utilitzades en aquesta web:"
+
+#: views/_MUSTACHE.php:220
+msgid ""
+"El sitio Web {{dominio}} utiliza cookies propias {{#clause-thirdparty}}y de "
+"terceros{{/clause-thirdparty}} para su correcto funcionamiento{{#thirdparty-"
+"analytics}} y para fines analíticos{{/thirdparty-analytics}}{{#thirdparty-"
+"advertising}} {{# thirdparty-amazon }}y para fines de afiliación {{/ "
+"thirdparty-amazon }}y para mostrarte publicidad relacionada con sus "
+"preferencias en base a un perfil elaborado a partir de tus hábitos de "
+"navegación{{/thirdparty-advertising}}. Al hacer clic en el botón Aceptar, "
+"acepta el uso de estas tecnologías y el procesamiento de sus datos para "
+"estos propósitos."
+msgstr ""
+"El lloc web {{dominio}} utilitza cookies pròpies {{#clause-thirdparty}}i de "
+"tercers{{/clause-thirdparty}} per al seu correcte funcionament{{#thirdparty-"
+"analytics}} i per a fins analítics{{/thirdparty-analytics}}{{#thirdparty-"
+"advertising}} {{# thirdparty-amazon }}i per a fins d'afiliació {{/ "
+"thirdparty-amazon }}i per mostrar publicitat relacionada amb les seves "
+"preferències segons un perfil elaborat a partir dels teus hàbits de "
+"navegació{{/thirdparty-advertising}}. En fer clic al botó Acceptar, accepta "
+"l'ús d'aquestes tecnologies i el processament de les dades per a aquests "
+"propòsits."
+
+#: views/_MUSTACHE.php:232
+msgid "ACEPTAR TODAS LAS COOKIES"
+msgstr "ACCEPTAR TOTES LES COOKIES"
+
+#: views/_MUSTACHE.php:237
+msgid ""
+"Puedes cambiar tus preferencias de cookies en cualquier momento si vuelves a "
+"la página de Personalizar cookies, a la que puedes acceder a través del "
+"Aviso de cookies."
+msgstr ""
+"Pots canviar les teves preferències de cookies en qualsevol moment si tornes "
+"a la pàgina de Personalitzar cookies, a la qual pots accedir a través de "
+"l'Avís de cookies."
+
+#: views/_MUSTACHE.php:237
+msgid ""
+"Para obtener más información sobre las cookies y cómo las usamos, consulta "
+"la página de "
+msgstr ""
+"Per obtenir més informació sobre les cookies i com les fem servir, consulta "
+"la pàgina de "
+
+#: views/_MUSTACHE.php:240
+msgid "Cookies técnicas"
+msgstr "Cookies tècniques"
+
+#: views/_MUSTACHE.php:242
+msgid ""
+"Son aquellas que permiten a los usuarios registrados navegar a través del "
+"sitio Web, del área restringida y a utilizar sus diferentes funciones, como "
+"por ejemplo, el sistema de comentarios o el buscador{{#es-tienda}} o llevar "
+"a cabo el proceso de compra de un Producto o Servicio{{/es-tienda}} y no "
+"pueden ser desactivadas."
+msgstr ""
+"Són aquelles que permeten als usuaris registrats navegar a través del lloc "
+"web, de l'àrea restringida i a utilitzar les seves diferents funcions, com "
+"per exemple, el sistema de comentaris o el cercador{{#es-tienda}} o dur a "
+"terme el procés de compra d'un Producte o Servei{{/es-tienda}} i no poden "
+"ser desactivades."
+
+#: views/_MUSTACHE.php:247
+msgid "Cookies de análisis o medición"
+msgstr "Cookies d'anàlisi o mesura"
+
+#: views/_MUSTACHE.php:254 views/_MUSTACHE.php:273
+msgid "Desactivar"
+msgstr "Desactivar"
+
+#: views/_MUSTACHE.php:259
+msgid ""
+"Son aquellas que, {{#clause-thirdparty}}bien tratadas por el sitio Web o por "
+"terceros{{/clause-thirdparty}}{{^clause-thirdparty}}tratadas por el sitio "
+"Web{{/clause-thirdparty}}, permiten cuantificar el número de usuarios y así "
+"realizar la medición y análisis estadístico de la utilización que hacen los "
+"usuarios del sitio Web. Para ello se analiza la navegación que realizas en "
+"este sitio Web con el fin de mejorarlo."
+msgstr ""
+"Són aquelles que, {{#clause-thirdparty}}tractades pel lloc web o per "
+"tercers{{/clause-thirdparty}}{{^clause-thirdparty}}tractades pel lloc web{{/"
+"clause-thirdparty}}, permeten quantificar el nombre d'usuaris que així fan "
+"el mesurament i anàlisi estadística. Per això s'analitza la navegació que "
+"fas en aquest lloc web per tal de millorar-lo."
+
+#: views/_MUSTACHE.php:265
+msgid "Cookies sociales"
+msgstr "Cookies socials"
+
+#: views/_MUSTACHE.php:278
+msgid ""
+"Son establecidas por las plataformas de redes sociales para permitir a los "
+"usuarios compartir contenido con sus amigos y redes."
+msgstr ""
+"Són establertes per les plataformes de xarxes socials per permetre als "
+"usuaris compartir contingut amb els amics i xarxes."
+
+#: views/_MUSTACHE.php:284
+msgid "Consentimiento"
+msgstr "Consentiment"
+
+#: views/_MUSTACHE.php:285
+msgid "Identificador:"
+msgstr "Identificador:"
+
+#: views/_MUSTACHE.php:289
+msgid "Identificación y Titularidad"
+msgstr "Identificació i Titularitat"
+
+#: views/_MUSTACHE.php:293
+msgid ""
+"En cumplimiento del artículo 10 de la Ley 34/2002, de 11 de julio, de "
+"Servicios de la Sociedad de la Información y Comercio Electrónico, el "
+"Titular expone sus datos identificativos:"
+msgstr ""
+"En compliment de l'article 10 de la Llei 34/2002, d'11 de juliol, de serveis "
+"de la Societat de la Informació i Comerç Electrònic, el Titular exposa les "
+"seves dades identificatives:"
+
+#: views/_MUSTACHE.php:296
+msgid "A continuación el Titular expone sus datos identificativos:"
+msgstr "A continuació el Titular exposa les seves dades identificatives:"
+
+#: views/_MUSTACHE.php:303
+msgid "Titular"
+msgstr "Titular"
+
+#: views/_MUSTACHE.php:305 views/_MUSTACHE.php:580
+msgid "El titular del sitio."
+msgstr "El titular del lloc."
+
+#: views/_MUSTACHE.php:313 views/_MUSTACHE.php:588
+msgid ""
+"Inscrita en el registro mercantil de {{mercantil-ciudad}}, tomo {{mercantil-"
+"tomo}}, libro {{mercantil-libro}}, sección {{mercantil-seccion}}, folio "
+"{{mercantil-folio}}, hoja {{mercantil-hoja}}, inscripción {{mercantil-"
+"inscripcion}}."
+msgstr ""
+"Inscrita al registre mercantil de {{mercantil-ciudad}}, tome {{mercantil-"
+"tomo}}, llibre {{mercantil-libro}}, secció {{mercantil-seccion}}, foli "
+"{{mercantil-folio}}, full {{mercantil-hoja}}, inscripció {{mercantil-"
+"inscripcion}}."
+
+#: views/_MUSTACHE.php:338 views/_MUSTACHE.php:613
+msgid "Teléfono de contacto"
+msgstr "Telèfon de contacte"
+
+#: views/_MUSTACHE.php:351
+msgid "Finalidad"
+msgstr "Finalitat"
+
+#: views/_MUSTACHE.php:353
+msgid "La finalidad del Sitio Web es:"
+msgstr "La finalitat del Lloc Web és:"
+
+#: views/_MUSTACHE.php:358
+msgid "Condiciones de Uso"
+msgstr "Condicions d'Ús"
+
+#: views/_MUSTACHE.php:360
+msgid ""
+"La utilización del Sitio Web le otorga la condición de Usuario, e implica la "
+"aceptación completa de todas las cláusulas y condiciones de uso incluidas en "
+"las páginas:"
+msgstr ""
+"La utilització del Lloc Web us atorga la condició d'Usuari, i implica "
+"l'acceptació completa de totes les clàusules i condicions d'ús incloses en "
+"les pàgines:"
+
+#: views/_MUSTACHE.php:369
+msgid ""
+"Si no estuviera conforme con todas y cada una de estas cláusulas y "
+"condiciones absténgase de utilizar el Sitio Web."
+msgstr ""
+"Si no esteu d'acord amb totes i cadascuna d'aquestes clàusules i condicions, "
+"abstingueu-vos d'utilitzar el Lloc Web."
+
+#: views/_MUSTACHE.php:373
+msgid ""
+"El acceso al Sitio Web no supone, en modo alguno, el inicio de una relación "
+"comercial con el Titular."
+msgstr ""
+"L'accés al Lloc Web no suposa, de cap manera, l'inici d'una relació "
+"comercial amb el Titular."
+
+#: views/_MUSTACHE.php:377
+msgid ""
+"A través del Sitio Web, el Titular le facilita el acceso y la utilización de "
+"diversos contenidos que el Titular y/o sus colaboradores han publicado por "
+"medio de Internet."
+msgstr ""
+"A través del Lloc Web, el Titular us facilita l'accés i la utilització de "
+"diversos continguts que el Titular i/o els seus col·laboradors han publicat "
+"per mitjà d'Internet."
+
+#: views/_MUSTACHE.php:381
+msgid ""
+"A tal efecto, está obligado y comprometido a NO utilizar cualquiera de los "
+"contenidos del Sitio Web con fines o efectos ilícitos, prohibidos en este "
+"Aviso Legal o por la legislación vigente, lesivos de los derechos e "
+"intereses de terceros, o que de cualquier forma puedan dañar, inutilizar, "
+"sobrecargar, deteriorar o impedir la normal utilización de los contenidos, "
+"los equipos informáticos o los documentos, archivos y toda clase de "
+"contenidos almacenados en cualquier equipo informático propios o contratados "
+"por el Titular, de otros usuarios o de cualquier usuario de Internet."
+msgstr ""
+"A aquest efecte, està obligat i compromès a NO utilitzar qualsevol dels "
+"continguts del Lloc Web amb fins o efectes il·lícits, prohibits en aquest "
+"Avís Legal o per la legislació vigent, lesius dels drets i interessos de "
+"tercers, o que de qualsevol manera puguin danyar, inutilitzar, "
+"sobrecarregar, deteriorar o impedir la normal utilització dels continguts, "
+"els equips informàtics propis o contractats pel Titular, altres usuaris o de "
+"qualsevol usuari d'Internet."
+
+#: views/_MUSTACHE.php:386
+msgid ""
+"El Titular se reserva el derecho de retirar todos aquellos comentarios que "
+"vulneren la legislación vigente, lesivos de los derechos o intereses de "
+"terceros, o que, a su juicio, no resulten adecuados para su publicación."
+msgstr ""
+"El Titular es reserva el dret de retirar tots aquells comentaris que "
+"vulnerin la legislació vigent, lesius dels drets o interessos de tercers, o "
+"que, a parer seu, no resultin adequats per a la seva publicació."
+
+#: views/_MUSTACHE.php:389
+msgid ""
+"El Titular no será responsable de las opiniones vertidas por los usuarios a "
+"través del sistema de comentarios, {{#thirdparty-social}}redes sociales{{/"
+"thirdparty-social}} u otras herramientas de participación, conforme a lo "
+"previsto en la normativa de aplicación."
+msgstr ""
+"El Titular no serà responsable de les opinions abocades pels usuaris a "
+"través del sistema de comentaris, {{#thirdparty-social}}xarxes socials{{/"
+"thirdparty-social}} o altres eines de participació, d'acord amb el que "
+"preveu la normativa aplicable."
+
+#: views/_MUSTACHE.php:395
+msgid "Mayoría de edad"
+msgstr "Majoria d'edat"
+
+#: views/_MUSTACHE.php:397
+msgid ""
+"Debe tener al menos {{edad-ue}} años de edad para usar los servicios "
+"ofrecidos por el Titular o la mayoría de edad que se requiera su país para "
+"registrarse en el Sitio Web o utilizarlo. Si reside en un país que no "
+"pertenezca a la Unión Europea, debe tener al menos {{edad-otros}} años de "
+"edad para usar el sitio Web o la mayoría de edad que se requiera su país "
+"para registrarse en el sitio Web o utilizarlo."
+msgstr ""
+"Heu de tenir almenys {{edad-ue}} anys d'edat per utilitzar els serveis "
+"oferts pel Titular o la majoria d'edat que es requereixi el vostre país per "
+"registrar-se al Lloc Web o utilitzar-lo. Si residiu en un país que no "
+"pertanyi a la Unió Europea, ha de tenir almenys {{edad-otros}} anys d'edat "
+"per utilitzar el lloc web o la majoria d'edat que es requereixi el seu país "
+"per registrar-se al lloc web o utilitzar-lo."
+
+#: views/_MUSTACHE.php:400
+msgid ""
+"Además de tener la edad mínima requerida para usar el sitio Web en virtud de "
+"la ley aplicable, si no tiene la edad suficiente para poder las condiciones "
+"en su país, su padre, madre, o tutor deben aceptar las condiciones en su "
+"nombre."
+msgstr ""
+"A més de tenir l'edat mínima requerida per utilitzar el lloc web en virtut "
+"de la llei aplicable, si no té l'edat suficient per poder les condicions al "
+"seu país, el seu pare, mare, o tutor han d'acceptar les condicions en nom "
+"seu."
+
+#: views/_MUSTACHE.php:406
+msgid "Medidas de seguridad"
+msgstr "Mesures de seguretat"
+
+#: views/_MUSTACHE.php:408
+msgid ""
+"Los datos personales que facilite al Titular pueden ser almacenados en bases "
+"de datos automatizadas o no, cuya titularidad corresponde en exclusiva al "
+"Titular, que asume todas las medidas de índole técnica, organizativa y de "
+"seguridad que garantizan la confidencialidad, integridad y calidad de la "
+"información contenida en las mismas de acuerdo con lo establecido en la "
+"normativa vigente en protección de datos."
+msgstr ""
+"Les dades personals que faciliti al Titular poden ser emmagatzemades en "
+"bases de dades automatitzades o no, la titularitat de les quals correspon en "
+"exclusiva al Titular, que assumeix totes les mesures d'índole tècnica, "
+"organitzativa i de seguretat que garanteixen la confidencialitat, integritat "
+"i qualitat de la informació continguda en aquestes, d'acord amb el que "
+"estableix la normativa vigent en protecció de dades."
+
+#: views/_MUSTACHE.php:411
+msgid ""
+"No obstante, debe ser consciente de que las medidas de seguridad de los "
+"sistemas informáticos en Internet no son enteramente fiables y que, por "
+"tanto el Titular no puede garantizar la inexistencia de virus u otros "
+"elementos que puedan producir alteraciones en los sistemas informáticos "
+"(software y hardware) del Usuario o en sus documentos electrónicos y "
+"ficheros contenidos en los mismos aunque el Titular pone todos los medios "
+"necesarios y toma las medidas de seguridad oportunas para evitar la "
+"presencia de estos elementos dañinos."
+msgstr ""
+"No obstant això, ha de ser conscient que les mesures de seguretat dels "
+"sistemes informàtics a Internet no són enterament fiables i que, per tant, "
+"el Titular no pot garantir la inexistència de virus o altres elements que "
+"puguin produir alteracions en els sistemes informàtics (software i hardware) "
+"de l'Usuari o en els seus documents electrònics i fitxers continguts en "
+"aquests, encara que el Titular hi posa tots els elements nocius."
+
+#: views/_MUSTACHE.php:416
+msgid "Tratamiento de Datos Personales"
+msgstr "Tractament de dades personals"
+
+#: views/_MUSTACHE.php:418
+msgid ""
+"Puede consultar toda la información relativa al tratamiento de datos "
+"personales que recoge el Titular en la página de "
+msgstr ""
+"Podeu consultar tota la informació relativa al tractament de dades personals "
+"que recull el Titular a la pàgina de "
+
+#: views/_MUSTACHE.php:422
+msgid "Contenidos"
+msgstr "Continguts"
+
+#: views/_MUSTACHE.php:424
+msgid ""
+"El Titular ha obtenido la información, el contenido multimedia y los "
+"materiales incluidos en el Sitio Web de fuentes que considera fiables, pero, "
+"si bien ha tomado todas las medidas razonables para asegurar que la "
+"información contenida es correcta, el Titular no garantiza que sea exacta, "
+"completa o actualizada. El Titular declina expresamente cualquier "
+"responsabilidad por error u omisión en la información contenida en las "
+"páginas del Sitio Web."
+msgstr ""
+"El Titular ha obtingut la informació, el contingut multimèdia i els "
+"materials inclosos en el Lloc Web de fonts que considera fiables, però si bé "
+"ha pres totes les mesures raonables per assegurar que la informació "
+"continguda és correcta, el Titular no garanteix que sigui exacta, completa o "
+"actualitzada. El Titular declina expressament qualsevol responsabilitat per "
+"error o omissió en la informació continguda a les pàgines del Lloc Web."
+
+#: views/_MUSTACHE.php:428
+msgid ""
+"Queda prohibido transmitir o enviar a través del Sitio Web cualquier "
+"contenido ilegal o ilícito, virus informáticos, o mensajes que, en general, "
+"afecten o violen derechos del Titular o de terceros."
+msgstr ""
+"Queda prohibit transmetre o enviar a través del Lloc Web qualsevol contingut "
+"il·legal o il·lícit, virus informàtics, o missatges que, en general, afectin "
+"o violin drets del Titular o de tercers."
+
+#: views/_MUSTACHE.php:432
+msgid ""
+"Los contenidos del Sitio Web tienen únicamente una finalidad informativa y "
+"bajo ninguna circunstancia deben usarse ni considerarse como oferta de "
+"venta, solicitud de una oferta de compra ni recomendación para realizar "
+"cualquier otra operación, salvo que así se indique expresamente."
+msgstr ""
+"Els continguts del Lloc Web tenen únicament una finalitat informativa i sota "
+"cap circumstància s'han d'usar ni considerar com a oferta de venda, "
+"sol·licitud d'una oferta de compra ni recomanació per fer qualsevol altra "
+"operació, llevat que així s'indiqui expressament."
+
+#: views/_MUSTACHE.php:436
+msgid ""
+"El Titular se reserva el derecho a modificar, suspender, cancelar o "
+"restringir el contenido del Sitio Web, los vínculos o la información "
+"obtenida a través del Sitio Web, sin necesidad de previo aviso."
+msgstr ""
+"El Titular es reserva el dret a modificar, suspendre, cancel·lar o "
+"restringir el contingut del Lloc Web, els enllaços o la informació obtinguda "
+"a través del Lloc Web, sense necessitat de previ avís."
+
+#: views/_MUSTACHE.php:440
+msgid ""
+"El Titular no es responsable de los daños y perjuicios que pudieran "
+"derivarse de la utilización de la información del Sitio Web{{#thirdparty-"
+"social}} o de la contenida en las redes sociales del Titular{{/thirdparty-"
+"social}}."
+msgstr ""
+"El Titular no és responsable dels danys i perjudicis que poguessin derivar-"
+"se de la utilització de la informació del Lloc Web{{#thirdparty-social}} o "
+"de la continguda a les xarxes socials del Titular{{/thirdparty-social}}."
+
+#: views/_MUSTACHE.php:444
+msgid "Política de cookies"
+msgstr "Política de cookies"
+
+#: views/_MUSTACHE.php:447 views/_MUSTACHE.php:878
+msgid ""
+"Puede consultar toda la información relativa a la política de recogida y "
+"tratamiento de las cookies en la página de "
+msgstr ""
+"Podeu consultar tota la informació relativa a la política de recollida i "
+"tractament de les cookies a la pàgina de "
+
+#: views/_MUSTACHE.php:452
+msgid ""
+"El Titular obtiene y conserva la siguiente información acerca de los "
+"visitantes del Sitio Web:"
+msgstr ""
+"El Titular obté i conserva la informació següent sobre els visitants del "
+"Lloc Web:"
+
+#: views/_MUSTACHE.php:456
+msgid ""
+"El nombre de dominio del proveedor (PSI) y/o dirección IP que les da acceso "
+"a la red."
+msgstr ""
+"El nom de domini del proveïdor (PSI) i/o adreça IP que els dona accés a la "
+"xarxa."
+
+#: views/_MUSTACHE.php:457
+msgid "La fecha y hora de acceso al sitio Web."
+msgstr "Data i hora d'accés al lloc web."
+
+#: views/_MUSTACHE.php:458
+msgid "La dirección de Internet origen del enlace que dirige al sitio Web."
+msgstr "L'adreça d'Internet origen de l'enllaç que dirigeix ​​al lloc web."
+
+#: views/_MUSTACHE.php:459
+msgid "El número de visitantes diarios de cada sección."
+msgstr "El nombre de visitants diaris de cada secció."
+
+#: views/_MUSTACHE.php:460
+msgid ""
+"La información obtenida es totalmente anónima, y en ningún caso puede ser "
+"asociada a un Usuario concreto e identificado."
+msgstr ""
+"La informació obtinguda és totalment anònima, i en cap cas no pot ser "
+"associada a un Usuari concret i identificat."
+
+#: views/_MUSTACHE.php:466
+msgid "Enlaces a otros sitios Web"
+msgstr "Enllaços a altres llocs web"
+
+#: views/_MUSTACHE.php:468
+msgid ""
+"El Titular puede proporcionarle acceso a sitios Web de terceros mediante "
+"enlaces con la finalidad exclusiva de informar sobre la existencia de otras "
+"fuentes de información en Internet en las que podrá ampliar los datos "
+"ofrecidos en el Sitio Web."
+msgstr ""
+"El Titular pot proporcionar-li accés a llocs web de tercers mitjançant "
+"enllaços amb la finalitat exclusiva d'informar sobre l'existència d'altres "
+"fonts d'informació a Internet, on podrà ampliar les dades ofertes al Lloc "
+"Web."
+
+#: views/_MUSTACHE.php:472
+msgid ""
+"Estos enlaces a otros sitios Web no suponen en ningún caso una sugerencia o "
+"recomendación para que usted visite las páginas web de destino, que están "
+"fuera del control del Titular, por lo que el Titular no es responsable del "
+"contenido de los sitios web vinculados ni del resultado que obtenga al "
+"seguir los enlaces."
+msgstr ""
+"Aquests enllaços a altres llocs web no suposen en cap cas un suggeriment o "
+"recomanació perquè visiteu les pàgines web de destinació, que estan fora del "
+"control del Titular, per la qual cosa el Titular no és responsable del "
+"contingut dels llocs web vinculats ni del resultat que obtingui en seguir "
+"els enllaços."
+
+#: views/_MUSTACHE.php:473
+msgid ""
+"Asimismo, el Titular no responde de los links o enlaces ubicados en los "
+"sitios web vinculados a los que le proporciona acceso."
+msgstr ""
+"Així mateix, el Titular no respon dels links o enllaços ubicats als llocs "
+"web vinculats als quals li proporciona accés."
+
+#: views/_MUSTACHE.php:477
+msgid ""
+"El establecimiento del enlace no implica en ningún caso la existencia de "
+"relaciones entre el Titular y el propietario del sitio en el que se "
+"establezca el enlace, ni la aceptación o aprobación por parte del Titular de "
+"sus contenidos o servicios."
+msgstr ""
+"L'establiment de l'enllaç no implica en cap cas l'existència de relacions "
+"entre el titular i el propietari del lloc on s'estableixi l'enllaç, ni "
+"l'acceptació o l'aprovació per part del titular dels seus continguts o "
+"serveis."
+
+#: views/_MUSTACHE.php:481
+msgid ""
+"Si accede a un sitio web externo desde un enlace que encuentre en el Sitio "
+"Web usted deberá leer la propia política de privacidad del otro sitio web "
+"que puede ser diferente de la de este sitio Web."
+msgstr ""
+"Si accediu a un lloc web extern des d'un enllaç que trobeu al Lloc Web, heu "
+"de llegir la política de privacitat mateixa de l'altre lloc web, que pot ser "
+"diferent de la d'aquest lloc web."
+
+#: views/_MUSTACHE.php:485
+msgid "Enlaces de Afiliados y anuncios patrocinados"
+msgstr "Enllaços d'afiliats i anuncis patrocinats"
+
+#: views/_MUSTACHE.php:488
+msgid ""
+"El Sitio Web ofrece contenidos patrocinados, anuncios y/o enlaces de "
+"afiliados."
+msgstr ""
+"El lloc web ofereix continguts patrocinats, anuncis i/o enllaços d'afiliats."
+
+#: views/_MUSTACHE.php:492
+msgid ""
+"La información que aparece en estos enlaces de afiliados o los anuncios "
+"insertados, son facilitados por los propios anunciantes, por lo que el "
+"Titular no se hace responsable de posibles inexactitudes o errores que "
+"pudieran contener los anuncios, ni garantiza en modo alguno la experiencia, "
+"integridad o responsabilidad de los anunciantes o la calidad de sus "
+"productos y/o servicios."
+msgstr ""
+"La informació que apareix en aquests enllaços d'afiliats o els anuncis "
+"inserits són facilitats pels mateixos anunciants, per la qual cosa el "
+"Titular no es fa responsable de possibles inexactituds o errors que "
+"poguessin contenir els anuncis, ni garanteix de cap manera l'experiència, "
+"integritat o responsabilitat dels anunciants o la qualitat dels seus "
+"productes i/o serveis."
+
+#: views/_MUSTACHE.php:495
+msgid "Aviso legal de Amazon Afiliados"
+msgstr "Avís legal d'Amazon Afiliats"
+
+#: views/_MUSTACHE.php:498 views/_MUSTACHE.php:1175
+msgid ""
+"En calidad de Afiliado de Amazon, obtengo ingresos por las compras adscritas "
+"que cumplen los requisitos aplicables."
+msgstr ""
+"En qualitat d'Afiliat d'Amazon, obtinc ingressos per les compres adscrites "
+"que compleixen els requisits aplicables."
+
+#: views/_MUSTACHE.php:503
+msgid "Propiedad intelectual e industrial"
+msgstr "Propietat intel·lectual i industrial"
+
+#: views/_MUSTACHE.php:505
+msgid "Todos los derechos están reservados."
+msgstr "Tots els drets estan reservats."
+
+#: views/_MUSTACHE.php:508
+msgid ""
+"Todo acceso a este Sitio Web está sujeto a las siguientes condiciones: la "
+"reproducción, almacenaje permanente y la difusión de los contenidos o "
+"cualquier otro uso que tenga finalidad pública o comercial queda "
+"expresamente prohibida sin el consentimiento previo expreso y por escrito "
+"del Titular."
+msgstr ""
+"Tot accés a aquest Lloc Web està subjecte a les condicions següents: la "
+"reproducció, emmagatzematge permanent i la difusió dels continguts o "
+"qualsevol altre ús que tingui finalitat pública o comercial queda "
+"expressament prohibida sense el consentiment previ exprés i per escrit del "
+"Titular."
+
+#: views/_MUSTACHE.php:512
+msgid "Limitación de responsabilidad"
+msgstr "Limitació de responsabilitat"
+
+#: views/_MUSTACHE.php:515
+msgid ""
+"La información y servicios incluidos o disponibles a través del Sitio Web "
+"pueden incluir incorrecciones o errores tipográficos. De forma periódica el "
+"Titular incorpora mejoras y/o cambios a la información contenida y/o los "
+"Servicios que puede introducir en cualquier momento."
+msgstr ""
+"La informació i els serveis inclosos o disponibles a través del Lloc Web "
+"poden incloure incorreccions o errors tipogràfics. De forma periòdica, el "
+"Titular incorpora millores i/o canvis a la informació continguda i/o als "
+"serveis que pot introduir en qualsevol moment."
+
+#: views/_MUSTACHE.php:518
+msgid ""
+"El Titular no declara ni garantiza que los servicios o contenidos sean "
+"interrumpidos o que estén libres de errores, que los defectos sean "
+"corregidos, o que el servicio o el servidor que lo pone a disposición estén "
+"libres de virus u otros componentes nocivos sin perjuicio de que el Titular "
+"realiza todos los esfuerzos en evitar este tipo de incidentes."
+msgstr ""
+"El Titular no declara ni garanteix que els serveis o continguts siguin "
+"interromputs o que estiguin lliures d'errors, que els defectes siguin "
+"corregits, o que el servei o el servidor que el posa a disposició estiguin "
+"lliures de virus o altres components nocius, sense perjudici que el Titular "
+"realitza tots els esforços a evitar aquest tipus d'incidents."
+
+#: views/_MUSTACHE.php:522
+msgid ""
+"El Titular declina cualquier responsabilidad en caso de que existan "
+"interrupciones o un mal funcionamiento de los Servicios o contenidos "
+"ofrecidos en Internet, cualquiera que sea su causa. Asimismo, el Titular no "
+"se hace responsable por caídas de la red, pérdidas de negocio a consecuencia "
+"de dichas caídas, suspensiones temporales de fluido eléctrico o cualquier "
+"otro tipo de daño indirecto que te pueda ser causado por causas ajenas a el "
+"Titular."
+msgstr ""
+"El Titular declina qualsevol responsabilitat en cas que hi hagi "
+"interrupcions o un mal funcionament dels serveis o continguts oferts a "
+"Internet, sigui quina sigui la seva causa. Així mateix, el Titular no es fa "
+"responsable per caigudes de la xarxa, pèrdues de negoci a conseqüència de "
+"les caigudes esmentades, suspensions temporals de fluid elèctric o qualsevol "
+"altre tipus de dany indirecte que et pugui ser causat per causes alienes al "
+"Titular."
+
+#: views/_MUSTACHE.php:525
+msgid ""
+"Antes de tomar decisiones y/o acciones con base a la información incluida en "
+"el Sitio Web, el Titular le recomienda comprobar y contrastar la información "
+"recibida con otras fuentes."
+msgstr ""
+"Abans de prendre decisions i/o accions, segons la informació inclosa en el "
+"Lloc Web, el Titular us recomana comprovar i contrastar la informació rebuda "
+"amb altres fonts."
+
+#: views/_MUSTACHE.php:529
+msgid "Derecho de exclusión"
+msgstr "Dret d'exclusió"
+
+#: views/_MUSTACHE.php:531
+msgid ""
+"El Titular se reserva el derecho a denegar o retirar el acceso al Sitio Web "
+"y los servicios ofrecidos sin necesidad de preaviso, a instancia propia o de "
+"un tercero, a aquellos usuarios que incumplan cualquiera de las condiciones "
+"de este Aviso Legal."
+msgstr ""
+"El Titular es reserva el dret a denegar o retirar l'accés al Lloc Web i els "
+"serveis oferts sense necessitat de preavís, a instància pròpia o d'un "
+"tercer, a aquells usuaris que incompleixin qualsevol de les condicions "
+"d'aquest Avís Legal."
+
+#: views/_MUSTACHE.php:537
+msgid "Jurisdicción"
+msgstr "Jurisdicció"
+
+#: views/_MUSTACHE.php:539
+msgid "Este Aviso Legal se rige íntegramente por la legislación española."
+msgstr "Aquest Avís Legal es regeix íntegrament per la legislació espanyola."
+
+#: views/_MUSTACHE.php:545
+msgid ""
+"Siempre que no haya una norma que obligue a otra cosa, para cuantas "
+"cuestiones se susciten sobre la interpretación, aplicación y cumplimiento de "
+"este Aviso Legal, así como de las reclamaciones que puedan derivarse de su "
+"uso, las partes acuerdan someterse a los Jueces y Tribunales de la provincia "
+"de {{provincia}}, con renuncia expresa de cualquier otra jurisdicción que "
+"pudiera corresponderles."
+msgstr ""
+"Sempre que no hi hagi una norma que obligui a una altra cosa, per a totes "
+"les qüestions que se suscitin sobre la interpretació, l'aplicació i el "
+"compliment d'aquest Avís Legal, així com de les reclamacions que puguin "
+"derivar-se del seu ús, les parts acorden sotmetre's als Jutges i Tribunals "
+"de la província de {{provincia}}, amb renúncia expressa de qualsevol altra "
+"jurisdicció que pogués correspondre."
+
+#: views/_MUSTACHE.php:552
+msgid "Contacto"
+msgstr "Contacte"
+
+#: views/_MUSTACHE.php:554
+msgid ""
+"En caso de que usted tenga cualquier duda acerca de este Aviso Legal o "
+"quiera realizar cualquier comentario sobre el Sitio Web, puede enviar un "
+"mensaje de correo electrónico a la dirección:"
+msgstr ""
+"En cas que tingueu qualsevol dubte sobre aquest Avís Legal o vulgueu "
+"realitzar qualsevol comentari sobre el Lloc Web, podeu enviar un missatge de "
+"correu electrònic a l'adreça:"
+
+#: views/_MUSTACHE.php:558
+msgid ""
+"El Titular le informa sobre su Política de Privacidad respecto del "
+"tratamiento y protección de los datos de carácter personal de los usuarios "
+"{{#es-tienda}}y clientes{{/es-tienda}} que puedan ser recabados durante la "
+"navegación{{#es-tienda}}, al comprar un producto o al contratar un "
+"servicio{{/es-tienda}} a través del Sitio Web:"
+msgstr ""
+"El Titular us informa sobre la seva Política de Privacitat respecte del "
+"tractament i protecció de les dades de caràcter personal dels usuaris {{#es-"
+"tienda}}i clients{{/es-tienda}} que puguin ser recollits durant la "
+"navegació{{#es-tienda}}, en comprar un producte o en contractar un servei{{/"
+"es-tienda}} a través del Lloc Web:"
+
+#: views/_MUSTACHE.php:563
+msgid ""
+"En este sentido, el Titular garantiza el cumplimiento de la normativa "
+"vigente en materia de protección de datos personales, reflejada en la Ley "
+"Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y de "
+"Garantía de Derechos Digitales (LOPD GDD). Cumple también con el Reglamento "
+"(UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 "
+"relativo a la protección de las personas físicas (RGPD)."
+msgstr ""
+"En aquest sentit, el Titular garanteix el compliment de la normativa vigent "
+"en matèria de protecció de dades personals, reflectida a la Llei Orgànica "
+"3/2018, de 5 de desembre, de Protecció de Dades Personals i de Garantia de "
+"Drets Digitals (LOPD GDD). Compleix també amb el Reglament (UE) 2016/679 del "
+"Parlament Europeu i del Consell de 27 d'abril del 2016 relatiu a la "
+"protecció de les persones físiques (RGPD)."
+
+#: views/_MUSTACHE.php:566
+msgid ""
+"En este sentido, el Titular cumple con el Reglamento (UE) 2016/679 del "
+"Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la "
+"protección de las personas físicas (RGPD)."
+msgstr ""
+"En aquest sentit, el Titular compleix el Reglament (UE) 2016/679 del "
+"Parlament Europeu i del Consell de 27 d'abril del 2016 relatiu a la "
+"protecció de les persones físiques (RGPD)."
+
+#: views/_MUSTACHE.php:571
+msgid ""
+"El uso de sitio Web implica la aceptación de esta Política de Privacidad"
+msgstr ""
+"L'ús del lloc web implica l'acceptació d'aquesta Política de Privacitat"
+
+#: views/_MUSTACHE.php:571
+msgid "así como las condiciones incluidas en el "
+msgstr "així com les condicions incloses en l'"
+
+#: views/_MUSTACHE.php:574
+msgid "Identidad del Responsable"
+msgstr "Identitat del Responsable"
+
+#: views/_MUSTACHE.php:626
+msgid "Principios aplicados en el tratamiento de datos"
+msgstr "Principis aplicats al tractament de dades"
+
+#: views/_MUSTACHE.php:628
+msgid ""
+"En el tratamiento de sus datos personales, el Titular aplicará los "
+"siguientes principios que se ajustan a las exigencias del nuevo reglamento "
+"europeo de protección de datos (RGPD):"
+msgstr ""
+"En el tractament de les vostres dades personals, el Titular aplicarà els "
+"següents principis que s'ajusten a les exigències del nou reglament europeu "
+"de protecció de dades (RGPD):"
+
+#: views/_MUSTACHE.php:634
+msgid ""
+"Principio de licitud, lealtad y transparencia: El Titular siempre requerirá "
+"el consentimiento para el tratamiento de los datos personales que puede ser "
+"para uno o varios fines específicos sobre los que el Titular informará al "
+"Usuario previamente con absoluta transparencia."
+msgstr ""
+"Principi de licitud, lleialtat i transparència: El Titular sempre requerirà "
+"el consentiment per al tractament de les dades personals que pot ser per a "
+"un o diversos fins específics sobre els quals el Titular informarà l'Usuari "
+"prèviament amb absoluta transparència."
+
+#: views/_MUSTACHE.php:637
+msgid ""
+"Principio de minimización de datos: El Titular solicitará solo los datos "
+"estrictamente necesarios para el fin o los fines que los solicita."
+msgstr ""
+"Principi de minimització de dades: El Titular sol·licitarà només les dades "
+"estrictament necessàries per a la finalitat o fins que les sol·licita."
+
+#: views/_MUSTACHE.php:640
+msgid ""
+"Principio de limitación del plazo de conservación: El Titular mantendrá los "
+"datos personales recabados durante el tiempo estrictamente necesario para el "
+"fin o los fines del tratamiento. El Titular informará al Usuario del plazo "
+"de conservación correspondiente según la finalidad."
+msgstr ""
+"Principi de limitació del termini de conservació: El Titular mantindrà les "
+"dades personals demanades durant el temps estrictament necessari per a la fi "
+"o fins del tractament. El titular informarà l'usuari del termini de "
+"conservació corresponent segons la finalitat."
+
+#: views/_MUSTACHE.php:641
+msgid ""
+"En el caso de suscripciones, el Titular revisará periódicamente las listas y "
+"eliminará aquellos registros inactivos durante un tiempo considerable."
+msgstr ""
+"En cas de subscripcions, el Titular revisarà periòdicament les llistes i "
+"eliminarà aquells registres inactius durant un temps considerable."
+
+#: views/_MUSTACHE.php:644
+msgid ""
+"Principio de integridad y confidencialidad: Los datos personales recabados "
+"serán tratados de tal manera que su seguridad, confidencialidad e integridad "
+"está garantizada."
+msgstr ""
+"Principi d'integritat i confidencialitat: Les dades personals recollides "
+"seran tractades de manera que la seva seguretat, confidencialitat i "
+"integritat està garantida."
+
+#: views/_MUSTACHE.php:645
+msgid ""
+"El Titular toma las precauciones necesarias para evitar el acceso no "
+"autorizado o uso indebido de los datos de sus usuarios por parte de terceros."
+msgstr ""
+"El Titular pren les precaucions necessàries per evitar l'accés no autoritzat "
+"o ús indegut de les dades dels usuaris per part de tercers."
+
+#: views/_MUSTACHE.php:650
+msgid "Obtención de datos personales"
+msgstr "Obtenció de dades personals"
+
+#: views/_MUSTACHE.php:652
+msgid ""
+"Para navegar por el sitio Web no es necesario que facilite ningún dato "
+"personal."
+msgstr "Per navegar pel lloc web no cal que faciliti cap dada personal."
+
+#: views/_MUSTACHE.php:657
+msgid ""
+"Los casos en los que usted sí proporciona sus datos personales son los "
+"siguientes:"
+msgstr ""
+"Els casos en què vostè sí que proporciona les seves dades personals són els "
+"següents:"
+
+#: views/_MUSTACHE.php:662
+msgid ""
+"Al contactar a través de los formularios de contacto o enviar un correo "
+"electrónico."
+msgstr ""
+"En contactar a través dels formularis de contacte o enviar un correu "
+"electrònic."
+
+#: views/_MUSTACHE.php:665
+msgid "Al realizar un comentario en un artículo o en una página."
+msgstr "En fer un comentari en un article o en una pàgina."
+
+#: views/_MUSTACHE.php:668
+msgid "Al comprar un producto o contratar un servicio."
+msgstr "En comprar un producte o contractar un servei."
+
+#: views/_MUSTACHE.php:671 views/_MUSTACHE.php:674 views/_MUSTACHE.php:677
+#: views/_MUSTACHE.php:680 views/_MUSTACHE.php:683 views/_MUSTACHE.php:686
+msgid ""
+"Al inscribirse en un formulario de suscripción o un boletín que el Titular "
+"gestiona con"
+msgstr ""
+"En inscriure's en un formulari de subscripció o un butlletí que el Titular "
+"gestiona amb"
+
+#: views/_MUSTACHE.php:692
+msgid "Derechos"
+msgstr "Drets"
+
+#: views/_MUSTACHE.php:694
+msgid "El Titular le informa que sobre sus datos personales tiene derecho a:"
+msgstr ""
+"El Titular us informa que sobre les vostres dades personals teniu dret a:"
+
+#: views/_MUSTACHE.php:698
+msgid "Solicitar el acceso a los datos almacenados."
+msgstr "Sol·licitar l'accés a les dades emmagatzemades."
+
+#: views/_MUSTACHE.php:699
+msgid "Solicitar una rectificación o la supresión."
+msgstr "Sol·licitar una rectificació o la supressió."
+
+#: views/_MUSTACHE.php:700
+msgid "Solicitar la limitación de su tratamiento."
+msgstr "Sol·licitar la limitació del tractament."
+
+#: views/_MUSTACHE.php:701
+msgid "Oponerse al tratamiento."
+msgstr "Oposar-se al tractament."
+
+#: views/_MUSTACHE.php:703
+msgid "Solicitar la portabilidad de sus datos."
+msgstr "Sol·licitar la portabilitat de les vostres dades."
+
+#: views/_MUSTACHE.php:709
+msgid "No puede ejercitar el derecho a la portabilidad de los datos."
+msgstr "No podeu exercir el dret a la portabilitat de les dades."
+
+#: views/_MUSTACHE.php:714
+msgid ""
+"El ejercicio de estos derechos es personal y por tanto debe ser ejercido "
+"directamente por el interesado, solicitándolo directamente al Titular, lo "
+"que significa que cualquier cliente, suscriptor o colaborador que haya "
+"facilitado sus datos en algún momento, puede dirigirse al Titular y pedir "
+"información sobre los datos que tiene almacenados y cómo los ha obtenido, "
+"solicitar la rectificación de los mismos{{#clause-portabilidad}}, solicitar "
+"la portabilidad de sus datos personales{{/clause-portabilidad}}, oponerse al "
+"tratamiento, limitar su uso o solicitar la supresión de esos datos en los "
+"ficheros del Titular."
+msgstr ""
+"L'exercici d'aquests drets és personal i, per tant, ha de ser exercit "
+"directament per l'interessat, sol·licitant-ho directament al Titular, la "
+"qual cosa significa que qualsevol client, subscriptor o col·laborador que "
+"hagi facilitat les seves dades en algun moment, pot adreçar-se al Titular i "
+"demanar informació sobre les dades que té emmagatzemades i com les ha "
+"obtingut, sol·licitar-ne la rectificació{{#clause-portabilidad}}, "
+"sol·licitar la portabilitat de les seves dades personals{{/clause-"
+"portabilidad}}, oposar-se al tractament, limitar-ne l'ús o sol·licitar la "
+"supressió d'aquestes dades als fitxers del Titular."
+
+#: views/_MUSTACHE.php:718
+msgid ""
+"Para ejercitar sus derechos tiene que enviar su petición junto con una "
+"fotocopia del Documento Nacional de Identidad o equivalente a"
+msgstr ""
+"Per exercir els vostres drets heu d'enviar la vostra petició juntament amb "
+"una fotocòpia del Document Nacional d'Identitat o equivalent a"
+
+#: views/_MUSTACHE.php:720
+msgid "la dirección de correo electrónico:"
+msgstr "l'adreça de correu electrònic:"
+
+#: views/_MUSTACHE.php:723
+msgid "la dirección de correo postal:"
+msgstr "l'adreça de correu postal:"
+
+#: views/_MUSTACHE.php:731
+msgid ""
+"El ejercicio de estos derechos no incluye ningún dato que el Titular esté "
+"obligado a conservar con fines administrativos, legales o de seguridad."
+msgstr ""
+"L'exercici d'aquests drets no inclou cap dada que el Titular estigui obligat "
+"a conservar amb fins administratius, legals o de seguretat."
+
+#: views/_MUSTACHE.php:735
+msgid ""
+"Tiene derecho a la tutela judicial efectiva y a presentar una reclamación "
+"ante la autoridad de control, en este caso, la Agencia Española de "
+"Protección de Datos, si considera que el tratamiento de datos personales que "
+"le conciernen infringe el Reglamento."
+msgstr ""
+"Té dret a la tutela judicial efectiva i a presentar una reclamació davant "
+"l'autoritat de control, en aquest cas, l'Agència Espanyola de Protecció de "
+"Dades, si considera que el tractament de dades personals que el concerneixen "
+"infringeix el Reglament."
+
+#: views/_MUSTACHE.php:738
+msgid "Finalidad del tratamiento de datos personales"
+msgstr "Finalitat del tractament de dades personals"
+
+#: views/_MUSTACHE.php:740
+msgid ""
+"Cuando usted se conecta al Sitio Web para mandar un correo al Titular,"
+"{{#option-comments}} escribe un comentario en un artículo o una página, {{/"
+"option-comments}} se suscribe a su boletín {{#es-tienda}} o contrata un "
+"producto o un servicio{{/es-tienda}} está facilitando información de "
+"carácter personal de la que el responsable es el Titular. Esta información "
+"puede incluir datos de carácter personal como pueden ser su dirección IP, "
+"nombre y apellidos, dirección física, dirección de correo electrónico, "
+"número de teléfono, y otra información. Al facilitar esta información, da su "
+"consentimiento para que su información sea recopilada, utilizada, gestionada "
+"y almacenada por "
+msgstr ""
+"Quan vostè es connecta al Lloc Web per enviar un correu al Titular, "
+"{{#option-comments}} escriu un comentari en un article o una pàgina, {{/"
+"option-comments}} se subscriu al seu butlletí {{#es-tienda}} o contracta un "
+"producte o un servei{{/es-tienda}} està facilitant informació de caràcter "
+"personal de la qual el responsable és el Titular. Aquesta informació pot "
+"incloure dades de caràcter personal com poden ser la vostra adreça IP, nom i "
+"cognoms, adreça física, adreça de correu electrònic, número de telèfon, i "
+"altra informació. En facilitar aquesta informació, dona el consentiment "
+"perquè la seva informació sigui recopilada, utilitzada, gestionada i "
+"emmagatzemada per "
+
+#: views/_MUSTACHE.php:747
+msgid "sólo como se describe en las páginas:"
+msgstr "només com es descriu a les pàgines:"
+
+#: views/_MUSTACHE.php:755
+msgid ""
+"Los datos personales y la finalidad del tratamiento por parte del Titular es "
+"diferente según el sistema de captura de información:"
+msgstr ""
+"Les dades personals i la finalitat del tractament per part del Titular són "
+"diferents segons el sistema de captura d'informació:"
+
+#: views/_MUSTACHE.php:761
+msgid ""
+"Formularios de contacto: El Titular solicita datos personales entre los que "
+"pueden estar: nombre y apellidos, dirección de correo electrónico, número de "
+"teléfono y dirección de sitio web con la finalidad de responder las "
+"consultas de los Usuarios"
+msgstr ""
+"Formularis de contacte: El Titular sol·licita dades personals entre les que "
+"poden estar: nom i cognoms, adreça de correu electrònic, número de telèfon i "
+"adreça de lloc web amb la finalitat de respondre les consultes dels Usuaris"
+
+#: views/_MUSTACHE.php:761
+msgid ""
+"ofrecer información y demostraciones de los productos y servicios del "
+"Titular, incluidos presupuestos"
+msgstr ""
+"oferir informació i demostracions dels productes i serveis del Titular, "
+"inclosos pressupostos"
+
+#: views/_MUSTACHE.php:762
+msgid ""
+"Por ejemplo, el Titular utiliza esos datos para dar respuesta a mensajes, "
+"dudas, quejas, comentarios o inquietudes que pueden tener los Usuarios "
+"relativas a la información incluida en el sitio Web{{#es-tienda}}, los "
+"productos y los servicios que se prestan a través del sitio Web{{/es-"
+"tienda}}, el tratamiento de los datos personales, cuestiones referentes a "
+"los textos legales incluidos en el Sitio Web, así como cualquier otra "
+"consulta que el Usuario pueda tener y que no esté sujeta a las condiciones "
+"del sitio Web{{#es-tienda}} o de las condiciones de contratación{{/es-"
+"tienda}}."
+msgstr ""
+"Per exemple, el Titular utilitza aquestes dades per donar resposta a "
+"missatges, dubtes, queixes, comentaris o inquietuds que poden tenir els "
+"Usuaris relatives a la informació inclosa en el lloc Web{{#es-tienda}}, els "
+"productes i els serveis que es presten a través del lloc Web{{/es-tienda}}, "
+"el tractament de les dades personals, qüestions referents als texts legals "
+"inclosos en el Lloc Web, així com qualsevol altra consulta que l'usuari "
+"pugui tenir i que no estigui subjecta a les condicions del lloc web{{#es-"
+"tienda}} o de les condicions de contractació{{/es-tienda}}."
+
+#: views/_MUSTACHE.php:767
+msgid ""
+"Formularios de comentarios: El Titular solicita datos personales entre los "
+"que pueden estar: nombre y apellidos, dirección de correo electrónico, y "
+"dirección de sitio Web con la finalidad de responder a los comentarios de "
+"los Usuarios."
+msgstr ""
+"Formularis de comentaris: El Titular sol·licita dades personals entre les "
+"que poden estar: nom i cognoms, adreça de correu electrònic, i adreça de "
+"lloc web amb la finalitat de respondre als comentaris dels Usuaris."
+
+#: views/_MUSTACHE.php:772
+msgid ""
+"Formularios de contratación de productos o servicios: El Titular solicita "
+"datos personales entre los que pueden estar: nombre y apellidos, documento "
+"de identidad (número de identificación fiscal, número de identificación de "
+"extranjero, pasaporte o permiso de residencia), dirección de correo "
+"electrónico, dirección postal, número de teléfono y datos de pago (métodos "
+"de pago o datos bancarios) con la finalidad de mantener una relación "
+"comercial con el Usuario, realizar el envío de los pedidos, prestar los "
+"servicios contratados y para realizar la facturación y el cobro de los "
+"productos o servicios contratados."
+msgstr ""
+"Formularis de contractació de productes o serveis: El Titular sol·licita "
+"dades personals entre les quals poden estar: nom i cognoms, document "
+"d'identitat (nombre d'identificació fiscal, número d'identificació "
+"d'estranger, passaport o permís de residència), adreça de correu electrònic, "
+"adreça postal, número de telèfon i dades de pagament (mètodes de pagament o "
+"dades bancàries) amb la finalitat de mantenir una relació comercial amb "
+"l'Usuari per fer la facturació i el cobrament dels productes o serveis "
+"contractats."
+
+#: views/_MUSTACHE.php:777
+msgid ""
+"Formularios de suscripción a contenidos: El Titular solicita los siguientes "
+"datos personales: nombre y apellidos, dirección de correo electrónico, "
+"número de teléfono y dirección de un sitio web para gestionar la lista de "
+"suscripciones, enviar boletines, promociones y ofertas especiales. Los datos "
+"personales facilitados al Titular estarán ubicados en los servidores de The "
+"Rocket Science Group LLC d/b/a, con domicilio en EEUU. (Mailchimp)."
+msgstr ""
+"Formularis de subscripció a continguts: El Titular sol·licita les dades "
+"personals següents: nom i cognoms, adreça de correu electrònic, número de "
+"telèfon i adreça d'un lloc web per gestionar la llista de subscripcions, "
+"enviar butlletins, promocions i ofertes especials. Les dades personals "
+"facilitades al Titular estaran ubicades als servidors de The Rocket Science "
+"Group LLC d/b/a, amb domicili als EUA. (Mailchimp)."
+
+#: views/_MUSTACHE.php:782
+msgid ""
+"Formularios de suscripción a contenidos: El Titular solicita los siguientes "
+"datos personales: nombre y apellidos, dirección de correo electrónico, "
+"número de teléfono y dirección de un sitio web para gestionar la lista de "
+"suscripciones, enviar boletines, promociones y ofertas especiales. Los datos "
+"personales facilitados al Titular estarán ubicados en los servidores de "
+"ActiveCampaign, LLC (\"ActiveCamapign\"), con domicilio en EEUU. "
+msgstr ""
+"Formularis de subscripció a continguts: El Titular sol·licita les dades "
+"personals següents: nom i cognoms, adreça de correu electrònic, número de "
+"telèfon i adreça d'un lloc web per gestionar la llista de subscripcions, "
+"enviar butlletins, promocions i ofertes especials. Les dades personals "
+"facilitades al Titular estaran ubicades als servidors d'ActiveCampaign, LLC "
+"(\"ActiveCamapign\"), amb domicili als EUA. "
+
+#: views/_MUSTACHE.php:787
+msgid ""
+"Formularios de suscripción a contenidos: El Titular solicita los siguientes "
+"datos personales: nombre y apellidos, dirección de correo electrónico, "
+"número de teléfono y dirección de un sitio web para gestionar la lista de "
+"suscripciones, enviar boletines, promociones y ofertas especiales. Los datos "
+"personales facilitados al Titular estarán ubicados en los servidores de UAB "
+"“MailerLite”, J. Basanavičiaus 15, LT-03108 Vilnius, con domicilio en "
+"Lithuania."
+msgstr ""
+"Formularis de subscripció a continguts: El Titular sol·licita les dades "
+"personals següents: nom i cognoms, adreça de correu electrònic, número de "
+"telèfon i adreça d'un lloc web per gestionar la llista de subscripcions, "
+"enviar butlletins, promocions i ofertes especials. Les dades personals "
+"facilitades al Titular estaran ubicades als servidors d'UAB “MailerLite”, J. "
+"Basanavičiaus 15, LT-03108 Vilnius, amb domicili a Lituània."
+
+#: views/_MUSTACHE.php:793
+msgid ""
+"Existen otras finalidades por las que el Titular trata datos personales:"
+msgstr ""
+"Hi ha altres finalitats per les quals el Titular tracta dades personals:"
+
+#: views/_MUSTACHE.php:798
+msgid ""
+"Para garantizar el cumplimiento de las condiciones recogidas en "
+"{{#avisolegalURL}}la página de Aviso Legal y de {{/avisolegalURL}} la ley "
+"aplicable. Esto puede incluir el desarrollo de herramientas y algoritmos que "
+"ayuden al Sitio Web a garantizar la confidencialidad de los datos personales "
+"que recoge."
+msgstr ""
+"Per garantir el compliment de les condicions recollides a {{#avisolegalURL}}"
+"la pàgina d'Avís Legal i de {{/avisolegalURL}} la llei aplicable. Això pot "
+"incloure el desenvolupament d'eines i algorismes que ajudin el Lloc Web a "
+"garantir la confidencialitat de les dades personals que recull."
+
+#: views/_MUSTACHE.php:801
+msgid "Para apoyar y mejorar los servicios que ofrece este Sitio Web."
+msgstr "Per donar suport i millorar els serveis que ofereix aquest Lloc Web."
+
+#: views/_MUSTACHE.php:805
+msgid ""
+"Para analizar la navegación de los usuarios. El Titular recoge otros datos "
+"no identificativos que se obtienen mediante el uso de cookies que se "
+"descargan en el ordenador del Usuario cuando navega por el Sitio Web cuyas "
+"características y finalidad están detalladas en la página de "
+msgstr ""
+"Per analitzar la navegació dels usuaris. El Titular recull altres dades no "
+"identificatives que s'obtenen mitjançant l'ús de cookies que es descarreguen "
+"a l'ordinador de l'Usuari quan navega pel Lloc Web les característiques i "
+"finalitat del qual estan detallades a la pàgina de "
+
+#: views/_MUSTACHE.php:811
+msgid ""
+"Para gestionar las redes sociales. El Titular tiene presencia en redes "
+"sociales."
+msgstr ""
+"Per gestionar les xarxes socials. El Titular té presència a les xarxes "
+"socials."
+
+#: views/_MUSTACHE.php:812
+msgid ""
+"Si usted se hace seguidor en las redes sociales del Titular el tratamiento "
+"de los datos personales se regirá por este apartado, así como por aquellas "
+"condiciones de uso, políticas de privacidad y normativas de acceso que "
+"pertenezcan a la red social que proceda en cada caso y que ha aceptado "
+"previamente."
+msgstr ""
+"Si es fa seguidor a les xarxes socials del Titular el tractament de les "
+"dades personals es regirà per aquest apartat, així com per aquelles "
+"condicions d'ús, polítiques de privacitat i normatives d'accés que pertanyin "
+"a la xarxa social que sigui procedent en cada cas i que ha acceptat "
+"prèviament."
+
+#: views/_MUSTACHE.php:814
+msgid ""
+"Puede consultar las políticas de privacidad de las principales redes "
+"sociales en estos enlaces"
+msgstr ""
+"Podeu consultar les polítiques de privacitat de les principals xarxes "
+"socials en aquests enllaços"
+
+#: views/_MUSTACHE.php:826
+msgid ""
+"El Titular tratará sus datos personales con la finalidad de administrar "
+"correctamente su presencia en la red social, informarle de sus "
+"actividades{{#es-tienda}}, productos o servicios{{/es-tienda}}, así como "
+"para cualquier otra finalidad que las normativas de las redes sociales "
+"permiten."
+msgstr ""
+"El Titular tractarà les vostres dades personals amb la finalitat "
+"d'administrar correctament la vostra presència a la xarxa social, informar-"
+"vos de les vostres activitats{{#es-tienda}}, productes o serveis{{/es-"
+"tienda}}, així com per a qualsevol altra finalitat que les normatives de les "
+"xarxes socials permeten."
+
+#: views/_MUSTACHE.php:829
+msgid ""
+"En ningún caso el Titular utilizará los perfiles de seguidores en redes "
+"sociales para enviar publicidad de manera individual."
+msgstr ""
+"En cap cas el Titular no utilitzarà els perfils de seguidors en xarxes "
+"socials per enviar publicitat de manera individual."
+
+#: views/_MUSTACHE.php:837
+msgid "Seguridad de los datos personales"
+msgstr "Seguretat de les dades personals"
+
+#: views/_MUSTACHE.php:839
+msgid ""
+"Para proteger sus datos personales, el Titular toma todas las precauciones "
+"razonables y sigue las mejores prácticas de la industria para evitar su "
+"pérdida, mal uso, acceso indebido, divulgación, alteración o destrucción de "
+"los mismos."
+msgstr ""
+"Per protegir les vostres dades personals, el Titular pren totes les "
+"precaucions raonables i segueix les millors pràctiques de la indústria per "
+"evitar-ne la pèrdua, mal ús, accés indegut, divulgació, alteració o "
+"destrucció."
+
+#: views/_MUSTACHE.php:843
+msgid "El sitio Web está alojado en: "
+msgstr "El lloc web està allotjat a: "
+
+#: views/_MUSTACHE.php:843
+msgid ""
+"La seguridad de los datos está garantizada, ya que toman todas las medidas "
+"de seguridad necesarias para ello. Puede consultar su política de privacidad "
+"para tener más información."
+msgstr ""
+"La seguretat de les dades està garantida, ja que prenen totes les mesures de "
+"seguretat necessàries per fer-ho. Podeu consultar la vostra política de "
+"privacitat per obtenir més informació."
+
+#: views/_MUSTACHE.php:848
+msgid ""
+"Sus datos podrán ser incorporados a un fichero de lista de correo, del cual "
+"el Titular es responsable de su gestión y tratamiento. La seguridad de sus "
+"datos está garantizada, ya que el Titular toma todas las medidas de "
+"seguridad necesarias y le garantiza que los datos personales sólo se usarán "
+"para las finalidades dadas."
+msgstr ""
+"Les vostres dades podran ser incorporades a un fitxer de llista de correu, "
+"del qual el Titular és responsable de la seva gestió i tractament. La "
+"seguretat de les vostres dades està garantida, ja que el Titular pren totes "
+"les mesures de seguretat necessàries i us garanteix que les dades personals "
+"només s'usaran per a les finalitats donades."
+
+#: views/_MUSTACHE.php:855
+msgid ""
+"El Titular informa al Usuario de que sus datos personales no serán cedidos a "
+"terceras organizaciones, con la salvedad de que dicha cesión de datos esté "
+"amparada en una obligación legal o cuando la prestación de un servicio "
+"implique la necesidad de una relación contractual con un encargado de "
+"tratamiento. En este último caso, solo se llevará a cabo la cesión de datos "
+"al tercero cuando el Titular disponga del consentimiento expreso del Usuario."
+msgstr ""
+"El Titular informa l'Usuari que les seves dades personals no seran cedides a "
+"terceres organitzacions, llevat que aquesta cessió de dades estigui emparada "
+"en una obligació legal o quan la prestació d'un servei impliqui la "
+"necessitat d'una relació contractual amb un encarregat de tractament. En "
+"aquest darrer cas, només es durà a terme la cessió de dades al tercer quan "
+"el Titular disposi del consentiment exprés de l'Usuari."
+
+#: views/_MUSTACHE.php:858
+msgid ""
+"Sin embargo, en algunos casos se pueden realizar colaboraciones con otros "
+"profesionales, en esos casos, se requerirá consentimiento al Usuario "
+"informando sobre la identidad del colaborador y la finalidad de la "
+"colaboración. Siempre se realizará con los más estrictos estándares de "
+"seguridad."
+msgstr ""
+"Tot i això, en alguns casos es poden realitzar col·laboracions amb altres "
+"professionals, en aquests casos, es requerirà consentiment a l'Usuari "
+"informant sobre la identitat del col·laborador i la finalitat de la "
+"col·laboració. Sempre es realitzarà amb els estàndards de seguretat més "
+"estrictes."
+
+#: views/_MUSTACHE.php:863
+msgid "Contenido de otros sitios web"
+msgstr "Contingut d'altres llocs web"
+
+#: views/_MUSTACHE.php:865
+msgid ""
+"Las páginas de este sitio Web pueden incluir contenido incrustado (por "
+"ejemplo, vídeos, imágenes, artículos, etc.). El contenido incrustado de "
+"otras web se comporta exactamente de la misma manera que si hubiera visitado "
+"la otra web."
+msgstr ""
+"Les pàgines d'aquest lloc web poden incloure contingut incrustat (per "
+"exemple, vídeos, imatges, articles, etc.). El contingut incrustat d'altres "
+"webs es comporta exactament de la mateixa manera que si haguéssiu visitat "
+"l'altra web."
+
+#: views/_MUSTACHE.php:868
+msgid ""
+"Estos sitios Web pueden recopilar datos sobre usted, utilizar cookies, "
+"incrustar un código de seguimiento adicional de terceros, y supervisar su "
+"interacción usando este código."
+msgstr ""
+"Aquests llocs web poden recopilar dades sobre vostè, utilitzar cookies, "
+"incrustar un codi de seguiment addicional de tercers i supervisar la seva "
+"interacció usant aquest codi."
+
+#: views/_MUSTACHE.php:874
+msgid ""
+"Para que este sitio Web funcione correctamente necesita utilizar cookies, "
+"que es una información que se almacena en su navegador web."
+msgstr ""
+"Perquè aquest lloc web funcioni correctament heu d'utilitzar cookies, que és "
+"una informació que s'emmagatzema al vostre navegador web."
+
+#: views/_MUSTACHE.php:885
+msgid "Legitimación para el tratamiento de datos"
+msgstr "Legitimació per al tractament de dades"
+
+#: views/_MUSTACHE.php:887
+msgid "La base legal para el tratamiento de sus datos es:"
+msgstr "La base legal per al tractament de les vostres dades és:"
+
+#: views/_MUSTACHE.php:890
+msgid "El consentimiento del interesado."
+msgstr "El consentiment de l'interessat."
+
+#: views/_MUSTACHE.php:894
+msgid ""
+"Ejecución del contrato o la aplicación de medidas precontractuales con el "
+"interesado, con el fin de proporcionarle un producto o servicio adquirido al "
+"Titular."
+msgstr ""
+"Execució del contracte o l'aplicació de mesures precontractuals amb "
+"l'interessat, a fi de proporcionar-li un producte o servei adquirit al "
+"Titular."
+
+#: views/_MUSTACHE.php:897
+msgid "Para cumplir las obligaciones legales."
+msgstr "Per complir les obligacions legals."
+
+#: views/_MUSTACHE.php:904
+msgid "Categorías de datos personales"
+msgstr "Categories de dades personals"
+
+#: views/_MUSTACHE.php:906
+msgid "Las categorías de datos personales que trata el Titular son"
+msgstr "Les categories de dades personals que tracta el Titular són"
+
+#: views/_MUSTACHE.php:910
+msgid "Datos identificativos."
+msgstr "Dades identificatives."
+
+#: views/_MUSTACHE.php:912
+msgid "No se tratan categorías de datos especialmente protegidos."
+msgstr "No es tracten categories de dades especialment protegides."
+
+#: views/_MUSTACHE.php:918
+msgid "Conservación de datos personales"
+msgstr "Conservació de dades personals"
+
+#: views/_MUSTACHE.php:920
+msgid ""
+"Los datos personales proporcionados al Titular se conservarán hasta que "
+"solicite su supresión."
+msgstr ""
+"Les dades personals proporcionades al Titular es conservaran fins que "
+"sol·liciti la supressió."
+
+#: views/_MUSTACHE.php:926
+msgid "Destinatarios de datos personales"
+msgstr "Destinataris de dades personals"
+
+#: views/_MUSTACHE.php:932
+msgid ""
+"es un producto de CPC Servicios Informáticos Aplicados a Nuevas Tecnologías "
+"S.L., con domicilio social en C/ Nardo, 12. 28250  Torrelodones, Madrid."
+msgstr ""
+"és un producte de CPC Serveis Informàtics Aplicats a Noves Tecnologies S.L., "
+"amb domicili social al c/ Nardo, 12. 28250 Torrelodones, Madrid."
+
+#: views/_MUSTACHE.php:933 views/_MUSTACHE.php:940 views/_MUSTACHE.php:947
+#: views/_MUSTACHE.php:954 views/_MUSTACHE.php:961 views/_MUSTACHE.php:968
+#: views/_MUSTACHE.php:976 views/_MUSTACHE.php:983 views/_MUSTACHE.php:990
+msgid "Más información en:"
+msgstr "Més informació a:"
+
+#: views/_MUSTACHE.php:934
+msgid ""
+"CPC trata los datos con la finalidad de prestar sus servicios de email "
+"marketing al Titular."
+msgstr ""
+"CPC tracta les dades amb la finalitat de prestar els seus serveis d'email "
+"màrqueting al Titular."
+
+#: views/_MUSTACHE.php:939
+msgid "The Rocket Science Group LLC d/b/a , con domicilio en EEUU."
+msgstr "The Rocket Science Group LLC d/b/a, amb domicili als EUA."
+
+#: views/_MUSTACHE.php:941
+msgid ""
+"The Rocket Science Group LLC d/b/a trata los datos con la finalidad de "
+"prestar sus servicios de email marketing al Titular."
+msgstr ""
+"The Rocket Science Group LLC d/b/a tracta les dades amb la finalitat de "
+"prestar els seus serveis d'email màrqueting al Titular."
+
+#: views/_MUSTACHE.php:946
+msgid "ActiveCampaign, LLC (\"ActiveCampaign\"), con domicilio en EEUU."
+msgstr "ActiveCampaign, LLC (\"ActiveCampaign\"), amb domicili als EUA."
+
+#: views/_MUSTACHE.php:948
+msgid ""
+"ActiveCampaign, LLC trata los datos con la finalidad de prestar sus "
+"servicios de email marketing al Titular."
+msgstr ""
+"ActiveCampaign, LLC tracta les dades amb la finalitat de prestar els seus "
+"serveis d'email màrqueting al Titular."
+
+#: views/_MUSTACHE.php:953
+msgid ""
+"(UAB “MailerLite”, J. Basanavičiaus 15, LT-03108 Vilnius, con domicilio en "
+"Lithuania."
+msgstr ""
+"(UAB “MailerLite”, J. Basanavičiaus 15, LT-03108 Vilnius, amb domicili a "
+"Lithuania."
+
+#: views/_MUSTACHE.php:955
+msgid ""
+"MailerLite trata los datos con la finalidad de prestar sus servicios de "
+"email marketing al Titular."
+msgstr ""
+"MailerLite tracta les dades amb la finalitat de prestar els seus serveis de "
+"correu electrònic màrqueting al Titular."
+
+#: views/_MUSTACHE.php:960
+msgid ""
+"SendinBlue, sociedad por acciones simplificada (société par actions "
+"simplifiée) inscrita en el Registro Mercantil de París con el número 498 019 "
+"298, con domicilio social situado en 55 rue d Amsterdam, 75008, París "
+"(Francia)."
+msgstr ""
+"SendinBlue, societat per accions simplificada (société par actions "
+"simplifiée) inscrita al Registre Mercantil de París amb el número 498 019 "
+"298, amb domicili social situat a 55 rue d Amsterdam, 75008, París (França)."
+
+#: views/_MUSTACHE.php:962
+msgid ""
+"SendinBlue trata los datos con la finalidad de ofrecer soluciones para el "
+"envío de correos electrónicos, SMS transaccionales y de marketing al Titular."
+msgstr ""
+"SendinBlue trata los datos con la finalidad de ofrecer soluciones para el "
+"envío de correos electrónicos, SMS transaccionales y de marketing al Titular."
+
+#: views/_MUSTACHE.php:967
+msgid ""
+"es un producto de Wysija SARL, sociedad inscrita en el Registro Mercantil de "
+"Marsella con el número B 538 230 186 y domicilio social situado en 6 rue "
+"Dieudé, 13006, Marsella (Francia)."
+msgstr ""
+"és un producte de Wysija SARL, societat inscrita al Registre Mercantil de "
+"Marsella amb el número B 538 230 186 i domicili social situat a 6 rue "
+"Dieudé, 13006, Marsella (França)."
+
+#: views/_MUSTACHE.php:969
+msgid ""
+"MailPoet trata los datos con la finalidad de ofrecer soluciones para el "
+"envío de correos electrónicos y de marketing al Titular."
+msgstr ""
+"MailPoet tracta les dades per oferir solucions per a l'enviament de correus "
+"electrònics i de màrqueting al Titular."
+
+#: views/_MUSTACHE.php:974
+msgid ""
+"es un servicio de analítica web prestado por Google, Inc., una compañía de "
+"Delaware cuya oficina principal está en 1600 Amphitheatre Parkway, Mountain "
+"View (California), CA 94043, Estados Unidos (\"Google\")."
+msgstr ""
+"és un servei d'analítica web prestat per Google, Inc., una companyia de "
+"Delaware l'oficina principal del qual és el 1600 Amphitheatre Parkway, "
+"Mountain View (Califòrnia), CA 94043, Estats Units (\"Google\")."
+
+#: views/_MUSTACHE.php:975
+msgid ""
+"Google Analytics utiliza \"cookies\", que son archivos de texto ubicados en "
+"tu ordenador, para ayudar al Titular a analizar el uso que hacen los "
+"Usuarios del sitio Web. La información que genera la cookie acerca del uso "
+"del sitio Web (incluyendo la dirección IP) será directamente transmitida y "
+"archivada por Google en los servidores de Estados Unidos."
+msgstr ""
+"Google Analytics utilitza \"cookies\", que són arxius de text ubicats al "
+"vostre ordinador, per ajudar el Titular a analitzar l'ús que fan els Usuaris "
+"del lloc web. La informació que genera la cookie sobre l'ús del lloc web "
+"(incloent-hi l'adreça IP) serà directament transmesa i arxivada per Google "
+"als servidors dels Estats Units."
+
+#: views/_MUSTACHE.php:981 views/_MUSTACHE.php:988
+msgid ""
+"es un conjunto de servicios publicitarios proporcionado por Google, Inc., "
+"una compañía de Delaware cuya oficina principal está en 1600 Amphitheatre "
+"Parkway, Mountain View (California), CA 94043, Estados Unidos (\"Google\")."
+msgstr ""
+"és un conjunt de serveis publicitaris proporcionat per Google, Inc., una "
+"companyia de Delaware l'oficina principal del qual és el 1600 Amphitheatre "
+"Parkway, Mountain View (Califòrnia), CA 94043, Estats Units (\"Google\")."
+
+#: views/_MUSTACHE.php:982
+msgid ""
+"DoubleClick utiliza cookies que sirven para aumentar la relevancia de los "
+"anuncios relacionados con sus búsquedas recientes."
+msgstr ""
+"DoubleClick utilitza cookies que serveixen per augmentar la rellevància dels "
+"anuncis relacionats amb les vostres cerques recents."
+
+#: views/_MUSTACHE.php:989
+msgid ""
+"AdSense utiliza las cookies para mejorar la publicidad, segmentarla según el "
+"contenido que sea relevante para los usuarios y mejorar los informes de "
+"rendimiento de las campañas."
+msgstr ""
+"AdSense utilitza les cookies per millorar la publicitat, segmentar-la segons "
+"el contingut que sigui rellevant per als usuaris i millorar els informes de "
+"rendiment de les campanyes."
+
+#: views/_MUSTACHE.php:999
+msgid ""
+"Puede consultar como Google gestiona la privacidad en lo que respecta al uso "
+"de las cookies y otra información en la página de Política de privacidad de "
+"Google:"
+msgstr ""
+"Podeu consultar com Google gestiona la privacitat pel que fa a l'ús de les "
+"cookies i altra informació a la pàgina de Política de privacitat de Google:"
+
+#: views/_MUSTACHE.php:1003
+msgid ""
+"También puede ver una lista de los tipos de cookies que utiliza Google y sus "
+"colaboradores y toda la información relativa al uso que hacen de las cookies "
+"publicitarias en:"
+msgstr ""
+"També podeu veure una llista dels tipus de cookies que utilitza Google i els "
+"seus col·laboradors i tota la informació relativa a l'ús que fan de les "
+"cookies publicitàries a:"
+
+#: views/_MUSTACHE.php:1012
+msgid "Navegación Web"
+msgstr "Navegació Web"
+
+#: views/_MUSTACHE.php:1014
+msgid ""
+"Al navegar por el Sitio Web se pueden recoger datos no identificativos, que "
+"pueden incluir, la dirección IP, geolocalización, un registro de cómo se "
+"utilizan los servicios y sitios, hábitos de navegación y otros datos que no "
+"pueden ser utilizados para identificarle."
+msgstr ""
+"En navegar pel Lloc Web es poden recollir dades no identificatives, que "
+"poden incloure, l'adreça IP, geolocalització, un registre de com s'utilitzen "
+"els serveis i llocs, hàbits de navegació i altres dades que no poden ser "
+"utilitzades per identificar-vos."
+
+#: views/_MUSTACHE.php:1018
+msgid "El sitio Web utiliza los siguientes servicios de análisis de terceros"
+msgstr "El lloc web utilitza els següents serveis d'anàlisi de tercers"
+
+#: views/_MUSTACHE.php:1029
+msgid ""
+"El Titular utiliza la información obtenida para obtener datos estadísticos, "
+"analizar tendencias, administrar el sitio, estudiar patrones de navegación y "
+"para recopilar información demográfica."
+msgstr ""
+"El Titular utilitza la informació obtinguda per obtenir dades estadístiques, "
+"analitzar tendències, administrar el lloc, estudiar patrons de navegació i "
+"per recopilar informació demogràfica."
+
+#: views/_MUSTACHE.php:1032
+msgid ""
+"El Titular no se hace responsable del tratamiento de los datos personales "
+"que realicen las páginas web a las que pueda acceder a través de los "
+"distintos enlaces que contiene el Sitio Web."
+msgstr ""
+"El Titular no es fa responsable del tractament de les dades personals que "
+"facin les pàgines web a què pugui accedir a través dels diferents enllaços "
+"que conté el Lloc Web."
+
+#: views/_MUSTACHE.php:1036
+msgid "Exactitud y veracidad de los datos personales"
+msgstr "Exactitud i veracitat de les dades personals"
+
+#: views/_MUSTACHE.php:1038
+msgid ""
+"Usted se compromete a que los datos facilitados al Titular sean correctos, "
+"completos, exactos y vigentes, así como a mantenerlos debidamente "
+"actualizados."
+msgstr ""
+"Vostè es compromet que les dades facilitades al Titular siguin correctes, "
+"completes, exactes i vigents, així com a mantenir-les degudament "
+"actualitzades."
+
+#: views/_MUSTACHE.php:1041
+msgid ""
+"Como Usuario del Sitio Web es el único responsable de la veracidad y "
+"corrección de los datos remitidos al Sitio Web exonerando al Titular de "
+"cualquier responsabilidad al respecto."
+msgstr ""
+"Com a Usuari del Lloc Web és l'únic responsable de la veracitat i correcció "
+"de les dades remeses al Lloc Web exonerant el Titular de qualsevol "
+"responsabilitat al respecte."
+
+#: views/_MUSTACHE.php:1045
+msgid "Aceptación y consentimiento"
+msgstr "Acceptació i consentiment"
+
+#: views/_MUSTACHE.php:1047
+msgid ""
+"Como Usuario del Sitio Web declara haber sido informado de las condiciones "
+"sobre protección de datos de carácter personal, acepta y consiente el "
+"tratamiento de los mismos por parte del Titular en la forma y para las "
+"finalidades indicadas en esta Política de Privacidad."
+msgstr ""
+"Com a Usuari del Lloc Web declara haver estat informat de les condicions "
+"sobre protecció de dades de caràcter personal, accepta i consent el "
+"tractament dels mateixos per part del Titular en la forma i per a les "
+"finalitats indicades en aquesta Política de Privacitat."
+
+#: views/_MUSTACHE.php:1050
+msgid ""
+"Para contactar con el Titular, suscribirse a un boletín o realizar "
+"comentarios en este sitio Web tiene que aceptar la presente Política de "
+"Privacidad."
+msgstr ""
+"Per contactar amb el Titular, subscriure's a un butlletí o fer comentaris en "
+"aquest lloc web ha d'acceptar aquesta Política de Privacitat."
+
+#: views/_MUSTACHE.php:1054
+msgid "Cambios en la Política de Privacidad"
+msgstr "Canvis a la Política de Privacitat"
+
+#: views/_MUSTACHE.php:1056
+msgid ""
+"El Titular se reserva el derecho a modificar la presente Política de "
+"Privacidad para adaptarla a novedades legislativas o jurisprudenciales, así "
+"como a prácticas de la industria."
+msgstr ""
+"El Titular es reserva el dret a modificar aquesta Política de Privacitat per "
+"adaptar-la a novetats legislatives o jurisprudencials, així com a pràctiques "
+"de la indústria."
+
+#: views/_MUSTACHE.php:1059
+msgid ""
+"Estas políticas estarán vigentes hasta que sean modificadas por otras "
+"debidamente publicadas."
+msgstr ""
+"Aquestes polítiques estaran vigents fins que siguin modificades per altres "
+"degudament publicades."
+
+#: views/_MUSTACHE.php:1068
+msgid "He leído y acepto la "
+msgstr "He llegit i accepto la "
+
+#: views/_MUSTACHE.php:1072
+msgid "Acepto la política de privacidad."
+msgstr "Accepto la política de privacitat."
+
+#: views/_MUSTACHE.php:1093
+msgid ""
+"Esta web utiliza cookies propias {{#clause-thirdparty}}y de terceros{{/"
+"clause-thirdparty}} para su correcto funcionamiento{{#thirdparty-analytics}} "
+"y para fines analíticos{{/thirdparty-analytics}}{{#thirdparty-advertising}} "
+"{{# thirdparty-amazon }}y para fines de afiliación {{/ thirdparty-amazon }}y "
+"para mostrarte publicidad relacionada con sus preferencias en base a un "
+"perfil elaborado a partir de tus hábitos de navegación{{/thirdparty-"
+"advertising}}. Contiene enlaces a sitios web de terceros con políticas de "
+"privacidad ajenas que podrás aceptar o no cuando accedas a ellos. Al hacer "
+"clic en el botón Aceptar, acepta el uso de estas tecnologías y el "
+"procesamiento de tus datos para estos propósitos."
+msgstr ""
+"Aquest web utilitza cookies pròpies {{#clause-thirdparty}}i de tercers{{/"
+"clause-thirdparty}} per al seu funcionament correcte{{#thirdparty-"
+"analytics}} i per a fins analítics{{/thirdparty-analytics}}{{#thirdparty-"
+"advertising}} {{# thirdparty-amazon }}i per a fins d'afiliació {{/ "
+"thirdparty-amazon }}i per mostrar publicitat relacionada amb les seves "
+"preferències en base a un perfil elaborat a partir dels teus hàbits de "
+"navegació{{/thirdparty-advertising}}. Conté enllaços a llocs web de tercers "
+"amb polítiques de privadesa alienes que podràs acceptar o no quan hi "
+"accedeixis. En fer clic al botó D'acord, accepta l'ús d'aquestes tecnologies "
+"i el processament de les dades per a aquests propòsits."
+
+#: views/_MUSTACHE.php:1128
+msgid "Privacidad"
+msgstr "Privacitat"
+
+#: views/_MUSTACHE.php:1132
+msgid "Información básica sobre protección de datos"
+msgstr "Informació bàsica sobre protecció de dades"
+
+#: views/_MUSTACHE.php:1132
+msgid "Ver más"
+msgstr "Veure més"
+
+#: views/_MUSTACHE.php:1135
+msgid "Responsable:"
+msgstr "Responsable:"
+
+#: views/_MUSTACHE.php:1135
+msgid "El titular del sitio"
+msgstr "El titular del lloc"
+
+#: views/_MUSTACHE.php:1137
+msgid "Finalidad:"
+msgstr "Finalitat:"
+
+#: views/_MUSTACHE.php:1140
+msgid "Responder las consultas."
+msgstr "Respondre les consultes."
+
+#: views/_MUSTACHE.php:1141
+msgid "Facilitar al interesado ofertas de productos y servicios de su interés."
+msgstr ""
+"Facilitar a l'interessat ofertes de productes i serveis del vostre interès."
+
+#: views/_MUSTACHE.php:1144
+msgid "Legitimación:"
+msgstr "Legitimació:"
+
+#: views/_MUSTACHE.php:1147
+msgid "Por consentimiento del interesado."
+msgstr "Per consentiment de l'interessat."
+
+#: views/_MUSTACHE.php:1150
+msgid "Destinatarios y encargados de tratamiento:"
+msgstr "Destinataris i encarregats de tractament:"
+
+#: views/_MUSTACHE.php:1156
+msgid "No se ceden o comunican datos a terceros para prestar este servicio."
+msgstr "No se cedeixen o comuniquen dades a tercers per prestar aquest servei."
+
+#: views/_MUSTACHE.php:1158
+msgid ""
+"El Titular ha contratado los servicios de alojamiento web a {{hosting-info}} "
+"que actúa como encargado de tratamiento."
+msgstr ""
+"El Titular ha contractat els serveis d'allotjament web a {{hosting-info}} "
+"que actua com a encarregat de tractament."
+
+#: views/_MUSTACHE.php:1163
+msgid "Derechos:"
+msgstr "Drets:"
+
+#: views/_MUSTACHE.php:1163
+msgid "Acceder, rectificar y suprimir los datos."
+msgstr "Accedir, rectificar i suprimir les dades."
+
+#: views/_MUSTACHE.php:1167
+msgid "Información Adicional:"
+msgstr "Informació Addicional:"
+
+#: views/_MUSTACHE.php:1167
+msgid "Puede consultar la información detallada en la"
+msgstr "Podeu consultar la informació detallada a la"
+
+#: views/_MUSTACHE.php:1182
+msgid "Renuncia de responsabilidad"
+msgstr "Renúncia de responsabilitat"
+
+#: views/_MUSTACHE.php:1185
+msgid ""
+"El plugin Adapta RGPD es apto para empresas y bloggers que quieren adaptar "
+"su sitio por sus propios medios a las regulaciones europeas de privacidad "
+"conocidas como RGPD, sin embargo NO garantiza el cumplimiento de RGPD o "
+"cualquier otra disposición legal."
+msgstr ""
+"L'extensió Adapta RGPD és apte per a empreses i bloggers que volen adaptar "
+"el seu lloc pels seus propis mitjans a les regulacions europees de "
+"privacitat conegudes com a RGPD, però NO garanteix el compliment de RGPD o "
+"qualsevol altra disposició legal."
+
+#: views/_MUSTACHE.php:1189
+msgid ""
+"Considera que es tu responsabilidad usar estos recursos correctamente, para "
+"ofrecer la información que requiera tu Política de Privacidad y para "
+"asegurar que la información es actual y precisa. Expresamente, el autor y "
+"sus colaboradores declinan toda responsabilidad con respecto al uso de este "
+"plugin."
+msgstr ""
+"Considera que és la teva responsabilitat utilitzar aquests recursos "
+"correctament, per oferir la informació que requereixi la teva Política de "
+"Privacitat i per assegurar que la informació és actual i precisa. "
+"Expressament, l'autor i els seus col·laboradors declinen tota "
+"responsabilitat pel que fa a l'ús del plugin."
+
+#: views/_MUSTACHE.php:1193
+msgid ""
+"Para obtener ayuda adicional contacta con profesionales legales. Como cada "
+"negocio y situación es único, es posible que tengas que modificar, agregar o "
+"eliminar información en estas plantillas."
+msgstr ""
+"Per obtenir ajuda addicional contacta amb professionals legals. Com que cada "
+"negoci i situació és únic, és possible que hagis de modificar, afegir o "
+"eliminar informació en aquestes plantilles."
+
+#: views/_MUSTACHE.php:1197
+msgid "Para obtener más información visita:"
+msgstr "Per obtenir més informació visita:"
+
+#: views/_MUSTACHE.php:1207
+msgid "¿Necesitas ayuda, tienes ideas para mejorar el plugin?"
+msgstr "Necessites ajuda, tens idees per millorar el plugin?"
+
+#: views/_MUSTACHE.php:1210
+msgid "Cuéntanos qué necesitas:"
+msgstr "Explica'ns què necessites:"
+
+#: views/_MUSTACHE.php:1215 views/_MUSTACHE.php:1294
+msgid "CONTACTAR"
+msgstr "CONTACTAR"
+
+#: views/_MUSTACHE.php:1221
+msgid "Cómo funciona"
+msgstr "Com funciona"
+
+#: views/_MUSTACHE.php:1223
+msgid ""
+"Tras activar el plugin, en el menú \"Páginas\" aparecen tres nuevas páginas "
+"con los títulos"
+msgstr ""
+"Després d'activar el plugin, al menú \"Pàgines\" apareixen tres noves "
+"pàgines amb els títols"
+
+#: views/_MUSTACHE.php:1231
+msgid ""
+"El contenido es creado dinámicamente en el momento en que el usuario visita "
+"cualquiera de las páginas que contienen los textos legales. De este modo, "
+"puedes haces cambios en los datos del Titular o en la configuración del "
+"plugin que los textos estarán siempre actualizados."
+msgstr ""
+"El contingut és creat dinàmicament en el moment que l'usuari visita "
+"qualsevol de les pàgines que contenen els texts legals. D'aquesta manera, "
+"pots fer canvis a les dades del Titular o a la configuració del plugin que "
+"els texts estaran sempre actualitzats."
+
+#: views/_MUSTACHE.php:1234
+msgid ""
+"En el menú principal aparece un nuevo elemento con el nombre \"Adapta RGPD\" "
+"que sirve para configurar el plugin. Al pulsar sobre su nombre verás que "
+"tiene 4 pestañas"
+msgstr ""
+"Al menú principal apareix un nou element amb el nom \"Adapta RGPD\" que "
+"serveix per configurar el plugin. En prémer sobre el seu nom veuràs que té 4 "
+"pestanyes"
+
+#: views/_MUSTACHE.php:1237
+msgid "Pestaña Titular"
+msgstr "Pestanya Titular"
+
+#: views/_MUSTACHE.php:1239
+msgid ""
+"Está compuesta por un formulario que sirve para rellenar los datos del "
+"titular, ya sea un particular o una empresa, y del sitio web."
+msgstr ""
+"Està composta per un formulari que serveix per emplenar les dades del "
+"titular, ja sigui un particular o una empresa, i del lloc web."
+
+#: views/_MUSTACHE.php:1242
+msgid "Pestaña Textos legales"
+msgstr "Pestanya Texts legals"
+
+#: views/_MUSTACHE.php:1244
+msgid "Formado por 2 apartados"
+msgstr "Format per 2 apartats"
+
+#: views/_MUSTACHE.php:1247
+msgid ""
+"Para activar o desactivar las páginas de Aviso Legal, Política de Privacidad "
+"y la Política de Cookies."
+msgstr ""
+"Per activar o desactivar les pàgines d'Avís Legal, Política de Privacitat i "
+"la Política de Cookies."
+
+#: views/_MUSTACHE.php:1248 views/_MUSTACHE.php:1273
+msgid "Primera capa informativa"
+msgstr "Primera capa informativa"
+
+#: views/_MUSTACHE.php:1248
+msgid "Sirve para cumplir el deber de informar."
+msgstr "Serveix per complir el deure d'informar."
+
+#: views/_MUSTACHE.php:1251
+msgid "Pestaña Banner de Cookies"
+msgstr "Pestanya Banner de Cookies"
+
+#: views/_MUSTACHE.php:1253
+msgid ""
+"Sirve para activar el banner de cookies y aspectos del la Política de "
+"Cookies."
+msgstr ""
+"Serveix per activar el banner de cookies i aspectes de la Política de "
+"Cookies."
+
+#: views/_MUSTACHE.php:1256
+msgid "Pestaña Ayuda"
+msgstr "Pestanya Ajuda"
+
+#: views/_MUSTACHE.php:1258
+msgid ""
+"Esta página de ayuda. Además puedes mandarnos cualquier consulta o "
+"sugerencia a través de"
+msgstr ""
+"Aquesta pàgina d'ajuda. A més pots enviar-nos qualsevol consulta o "
+"suggeriment a través de"
+
+#: views/_MUSTACHE.php:1258
+msgid "este enlace"
+msgstr "aquest enllaç"
+
+#: views/_MUSTACHE.php:1265
+msgid ""
+"Para mostrar el texto del Aviso Legal, la Política de Privacidad o la "
+"Política de Cookies a través de un shortcode utiliza respectivamente"
+msgstr ""
+"Per mostrar el text de l'Avís Legal, la Política de Privacitat o la Política "
+"de Cookies mitjançant un shortcode utilitza respectivament"
+
+#: views/_MUSTACHE.php:1288
+msgid "Ayuda de"
+msgstr "Ajuda de"
+
+#: views/_MUSTACHE.php:1289
+msgid "expertos en WordPress"
+msgstr "experts en WordPress"
+
+#: views/_MUSTACHE.php:1301
+msgid "VER DETALLES"
+msgstr "VEURE DETALLS"
+
+#~ msgid "Hello World"
+#~ msgstr "Hola món"
+
+#~ msgid "Single"
+#~ msgid_plural "Plural"
+#~ msgstr[0] "Singular"
+#~ msgstr[1] "Plural"
+
+#~ msgid "Single Noop"
+#~ msgid_plural "Plural Noop"
+#~ msgstr[0] "Noop Singular"
+#~ msgstr[1] "Noop Plural"
+
+#~ msgctxt "Testing"
+#~ msgid "Hello World"
+#~ msgstr "Hola món"
+
+#~ msgctxt "test-domain"
+#~ msgid "Hello World Noop"
+#~ msgid_plural "Testing"
+#~ msgstr[0] "Hola món Noop"
+#~ msgstr[1] "Testing"
+
+#~ msgid "Attribute"
+#~ msgstr "Atribut"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgctxt "Testing"
+#~ msgid "Attribute"
+#~ msgstr "Atribut"
+
+#~ msgctxt "Testing"
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "Inicio"
+#~ msgstr "Inici"
+
+#~ msgid "LegalTech360"
+#~ msgstr "LegalTech360"
+
+#~ msgid "Adapta RGPD"
+#~ msgstr "Adapta RGPD"
+
+#~ msgid "https://superadmin.es/adapta-rgpd"
+#~ msgstr "https://superadmin.es/adapta-rgpd"
+
+#~ msgid "Superadmin"
+#~ msgstr "Superadmin"
+
+#~ msgid "https://superadmin.es"
+#~ msgstr "https://superadmin.es"
